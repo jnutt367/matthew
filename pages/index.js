@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          the Gospel of <a href="https://nextjs.org"> Matthew</a>
+          The Gospel of <a href="https://nextjs.org"> Matthew</a>
         </h1>
 
         <p className={styles.description}>
