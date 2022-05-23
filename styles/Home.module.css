@@ -42,7 +42,7 @@
 }
 
 .title {
-    margin: 0;
+    margin: 3rem;
     line-height: 1.15;
     font-size: 4rem;
     font-family: cursive;
@@ -54,22 +54,17 @@
 }
 
 .description {
-    color: white;
     margin: 4rem 0;
     line-height: 1.5;
-    font-size: 3rem;
-    max-width: 60rem;
+    font-size: 1.5rem;
 }
 
 .code {
-    background-color: transparent;
-    opacity: 0.7;
+    background: #fafafa;
     border-radius: 5px;
     padding: 0.75rem;
-    color: black;
-    font-size: x-large;
-    text-decoration: underline;
-    font-family: fantasy;
+    font-size: 1.1rem;
+    font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
 }
 
 .grid {
@@ -80,11 +75,18 @@
     max-width: 1400px;
 }
 
+.illustration {
+    padding-top: 3rem;
+    border-radius: 15px;
+}
+
 .card {
     margin: 1rem;
     padding: 1.5rem;
     text-align: left;
     color: inherit;
+    max-height: 300px;
+    overflow: scroll;
     text-decoration: none;
     border: 1px solid #eaeaea;
     border-radius: 10px;
@@ -100,6 +102,7 @@
     border-color: hsl(14, 100%, 48%);
     background-color: palevioletred;
     opacity: 0.85;
+    overflow: scroll;
     font-family: fantasy;
 }
 
@@ -124,47 +127,6 @@
     font-family: monospace;
     color: black;
     font-size: 1.5rem;
-}
-
-.h2 {
-    margin-top: 3rem;
-    padding: 1.5rem;
-    text-align: left;
-    color: inherit;
-    text-decoration: none;
-    border: 1px solid #eaeaea;
-    border-radius: 10px;
-    transition: color 0.15s ease, border-color 0.15s ease;
-    max-width: 300px;
-    font-family: fantasy;
-}
-
-.h2:hover {
-    color: white;
-    border-color: hsl(14, 100%, 48%);
-    background-color: palevioletred;
-    opacity: 0.85;
-    font-family: fantasy;
-}
-
-@media (max-width: 600px) {
-    .grid {
-        width: 100%;
-        flex-direction: column;
-    }
-}
-
-@media (max-width: 900px) {
-    .container {
-        background-image: url(/jesus.gif);
-        background-size: contain;
-        background-repeat: repeat;
-    }
-    .code {
-        color: black;
-        font-size: x-large;
-        text-decoration: underline;
-    }
 }
 
 @media (max-width: 600px) {
