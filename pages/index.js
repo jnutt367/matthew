@@ -20,8 +20,8 @@ export default function Home() {
           src="/42-Matthew.jpeg"
           alt="new testament illustration"
           layout="intrinsic"
-          height="500px"
-          width="1199px"
+          height="900px"
+          width="900px"
         />
        </a>
         <p className={styles.description}>
