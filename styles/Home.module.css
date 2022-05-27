@@ -42,7 +42,7 @@
 }
 
 .title {
-    margin: 3rem;
+    margin: 2rem;
     line-height: 1.15;
     font-size: 4rem;
     font-family: cursive;
@@ -101,7 +101,7 @@
 .card:active {
     color: black;
     border-color: hsl(212, 100%, 48%);
-    background-image: url(/jesus.gif);
+    background-image: url(/giphy-cloud.gif);
     opacity: 0.85;
     overflow: scroll;
     font-family: fantasy;
