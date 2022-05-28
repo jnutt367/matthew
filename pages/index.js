@@ -30,7 +30,7 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-        <a href="#" className={styles.card}>
+        <div className={styles.card}>
             <h2>Chapter 1 &darr;</h2>
             <p>The Genealogy of Jesus the Messiah
 1 This is the genealogy[a] of Jesus the Messiah[b] the son of David, the son of Abraham:
@@ -127,9 +127,9 @@ Joseph Accepts Jesus as His Son
 24 When Joseph woke up, he did what the angel of the Lord had commanded him and took Mary home as his wife. 25 But he did not consummate their marriage until she gave birth to a son. And he gave him the name Jesus.
 
 </p>
-          </a>
+          </div>
 
-          <a href="#" className={styles.card}>
+          <div className={styles.card}>
             <h2>Chapter 2 &darr;</h2>
             <p>The Magi Visit the Messiah
 2 After Jesus was born in Bethlehem in Judea, during the time of King Herod, Magi[a] from the east came to Jerusalem 2 and asked, “Where is the one who has been born king of the Jews? We saw his star when it rose and have come to worship him.”
@@ -164,10 +164,9 @@ The Return to Nazareth
 21 So he got up, took the child and his mother and went to the land of Israel. 22 But when he heard that Archelaus was reigning in Judea in place of his father Herod, he was afraid to go there. Having been warned in a dream, he withdrew to the district of Galilee, 23 and he went and lived in a town called Nazareth. So was fulfilled what was said through the prophets, that he would be called a Nazarene.
 
 </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 3 &darr;</h2>
@@ -190,10 +189,9 @@ The Baptism of Jesus
 15 Jesus replied, “Let it be so now; it is proper for us to do this to fulfill all righteousness.” Then John consented.
 
 16 As soon as Jesus was baptized, he went up out of the water. At that moment heaven was opened, and he saw the Spirit of God descending like a dove and alighting on him. 17 And a voice from heaven said, “This is my Son, whom I love; with him I am well pleased.”</p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 4 &darr;</h2>
@@ -240,9 +238,8 @@ Jesus Heals the Sick
 
 
             </p>
-          </a>
-          <a
-            href="#"
+          </div>
+          <div
             className={styles.card}
           >
             <h2>Chapter 5 &darr;</h2>
@@ -302,10 +299,9 @@ Eye for Eye
 Love for Enemies
 43 “You have heard that it was said, ‘Love your neighbor[i] and hate your enemy.’ 44 But I tell you, love your enemies and pray for those who persecute you, 45 that you may be children of your Father in heaven. He causes his sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous. 46 If you love those who love you, what reward will you get? Are not even the tax collectors doing that? 47 And if you greet only your own people, what are you doing more than others? Do not even pagans do that? 48 Be perfect, therefore, as your heavenly Father is perfect.
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 6 &darr;</h2>
@@ -348,10 +344,9 @@ Do Not Worry
 
 28 “And why do you worry about clothes? See how the flowers of the field grow. They do not labor or spin. 29 Yet I tell you that not even Solomon in all his splendor was dressed like one of these. 30 If that is how God clothes the grass of the field, which is here today and tomorrow is thrown into the fire, will he not much more clothe you—you of little faith? 31 So do not worry, saying, ‘What shall we eat?’ or ‘What shall we drink?’ or ‘What shall we wear?’ 32 For the pagans run after all these things, and your heavenly Father knows that you need them. 33 But seek first his kingdom and his righteousness, and all these things will be given to you as well. 34 Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 7 &darr;</h2>
@@ -382,10 +377,9 @@ The Wise and Foolish Builders
 
 28 When Jesus had finished saying these things, the crowds were amazed at his teaching, 29 because he taught as one who had authority, and not as their teachers of the law.
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 8 &darr;</h2>
@@ -437,10 +431,9 @@ Jesus Restores Two Demon-Possessed Men
 
 32 He said to them, “Go!” So they came out and went into the pigs, and the whole herd rushed down the steep bank into the lake and died in the water. 33 Those tending the pigs ran off, went into the town and reported all this, including what had happened to the demon-possessed men. 34 Then the whole town went out to meet Jesus. And when they saw him, they pleaded with him to leave their region.
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 9 &darr;</h2>
@@ -493,10 +486,9 @@ The Workers Are Few
 
 
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 10 &darr;</h2>
@@ -531,10 +523,9 @@ a daughter-in-law against her mother-in-law—
 
 40 “Anyone who welcomes you welcomes me, and anyone who welcomes me welcomes the one who sent me. 41 Whoever welcomes a prophet as a prophet will receive a prophet’s reward, and whoever welcomes a righteous person as a righteous person will receive a righteous person’s reward. 42 And if anyone gives even a cup of cold water to one of these little ones who is my disciple, truly I tell you, that person will certainly not lose their reward.”
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 11 &darr;</h2>
@@ -572,10 +563,9 @@ The Father Revealed in the Son
 
 28 “Come to me, all you who are weary and burdened, and I will give you rest. 29 Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. 30 For my yoke is easy and my burden is light.”
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 12 &darr;</h2>
@@ -632,10 +622,9 @@ Jesus’ Mother and Brothers
 
 
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 13 &darr;</h2>
@@ -715,10 +704,9 @@ But Jesus said to them, “A prophet is not without honor except in his own town
 
 58 And he did not do many miracles there because of their lack of faith.
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 14 &darr;</h2>
@@ -760,10 +748,9 @@ Then Peter got down out of the boat, walked on the water and came toward Jesus. 
 
 34 When they had crossed over, they landed at Gennesaret. 35 And when the men of that place recognized Jesus, they sent word to all the surrounding country. People brought all their sick to him 36 and begged him to let the sick just touch the edge of his cloak, and all who touched it were healed.
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 15 &darr;</h2>
@@ -816,10 +803,9 @@ Jesus Feeds the Four Thousand
 
 35 He told the crowd to sit down on the ground. 36 Then he took the seven loaves and the fish, and when he had given thanks, he broke them and gave them to the disciples, and they in turn to the people. 37 They all ate and were satisfied. Afterward the disciples picked up seven basketfuls of broken pieces that were left over. 38 The number of those who ate was four thousand men, besides women and children. 39 After Jesus had sent the crowd away, he got into the boat and went to the vicinity of Magadan.
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 16 &darr;</h2>
@@ -858,9 +844,9 @@ Jesus Predicts His Death
 
 28 “Truly I tell you, some who are standing here will not taste death before they see the Son of Man coming in his kingdom.”
             </p>
-          </a>
+          </div>
 
-          <a href="#" className={styles.card}>
+          <div className={styles.card}>
             <h2>Chapter 17 &darr;</h2>
             <p>The Transfiguration
 17 After six days Jesus took with him Peter, James and John the brother of James, and led them up a high mountain by themselves. 2 There he was transfigured before them. His face shone like the sun, and his clothes became as white as the light. 3 Just then there appeared before them Moses and Elijah, talking with Jesus.
@@ -899,9 +885,9 @@ When Peter came into the house, Jesus was the first to speak. “What do you thi
 26 “From others,” Peter answered.
 
 “Then the children are exempt,” Jesus said to him. 27 “But so that we may not cause offense, go to the lake and throw out your line. Take the first fish you catch; open its mouth and you will find a four-drachma coin. Take it and give it to them for my tax and yours.”</p>
-          </a>
+          </div>
 
-          <a href="#" className={styles.card}>
+          <div className={styles.card}>
             <h2>Chapter 18 &darr;</h2>
             <p>The Greatest in the Kingdom of Heaven
 18 At that time the disciples came to Jesus and asked, “Who, then, is the greatest in the kingdom of heaven?”
@@ -943,10 +929,9 @@ The Parable of the Unmerciful Servant
 35 “This is how my heavenly Father will treat each of you unless you forgive your brother or sister from your heart.”
 
 </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 19 &darr;</h2>
@@ -994,10 +979,9 @@ Jesus replied, “‘You shall not murder, you shall not commit adultery, you sh
 27 Peter answered him, “We have left everything to follow you! What then will there be for us?”
 
 28 Jesus said to them, “Truly I tell you, at the renewal of all things, when the Son of Man sits on his glorious throne, you who have followed me will also sit on twelve thrones, judging the twelve tribes of Israel. 29 And everyone who has left houses or brothers or sisters or father or mother or wife[e] or children or fields for my sake will receive a hundred times as much and will inherit eternal life. 30 But many who are first will be last, and many who are last will be first.</p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 20 &darr;</h2>
@@ -1050,9 +1034,8 @@ Two Blind Men Receive Sight
 
 34 Jesus had compassion on them and touched their eyes. Immediately they received their sight and followed him.
             </p>
-          </a>
-          <a
-            href="#"
+          </div>
+          <div
             className={styles.card}
           >
             <h2>Chapter 21 &darr;</h2>
@@ -1146,10 +1129,9 @@ the Lord has done this,
 
 45 When the chief priests and the Pharisees heard Jesus’ parables, they knew he was talking about them. 46 They looked for a way to arrest him, but they were afraid of the crowd because the people held that he was a prophet.
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 22 &darr;</h2>
@@ -1206,10 +1188,9 @@ until I put your enemies
 
 45 If then David calls him ‘Lord,’ how can he be his son?” 46 No one could say a word in reply, and from that day on no one dared to ask him any more questions.
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 23 &darr;</h2>
@@ -1240,10 +1221,9 @@ Seven Woes on the Teachers of the Law and the Pharisees
 
 37 “Jerusalem, Jerusalem, you who kill the prophets and stone those sent to you, how often I have longed to gather your children together, as a hen gathers her chicks under her wings, and you were not willing. 38 Look, your house is left to you desolate. 39 For I tell you, you will not see me again until you say, ‘Blessed is he who comes in the name of the Lord.’[c]”
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 24 &darr;</h2>
@@ -1281,10 +1261,9 @@ The Day and Hour Unknown
 
 45 “Who then is the faithful and wise servant, whom the master has put in charge of the servants in his household to give them their food at the proper time? 46 It will be good for that servant whose master finds him doing so when he returns. 47 Truly I tell you, he will put him in charge of all his possessions. 48 But suppose that servant is wicked and says to himself, ‘My master is staying away a long time,’ 49 and he then begins to beat his fellow servants and to eat and drink with drunkards. 50 The master of that servant will come on a day when he does not expect him and at an hour he is not aware of. 51 He will cut him to pieces and assign him a place with the hypocrites, where there will be weeping and gnashing of teeth.
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 25 &darr;</h2>
@@ -1340,10 +1319,9 @@ The Sheep and the Goats
 
 46 “Then they will go away to eternal punishment, but the righteous to eternal life.”
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 26 &darr;</h2>
@@ -1456,10 +1434,9 @@ Peter Disowns Jesus
 
 Immediately a rooster crowed. 75 Then Peter remembered the word Jesus had spoken: “Before the rooster crows, you will disown me three times.” And he went outside and wept bitterly.
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 27 &darr;</h2>
@@ -1539,10 +1516,9 @@ The Guard at the Tomb
 
 
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 28 &darr;</h2>
@@ -1562,7 +1538,7 @@ The Guards’ Report
 The Great Commission
 16 Then the eleven disciples went to Galilee, to the mountain where Jesus had told them to go. 17 When they saw him, they worshiped him; but some doubted. 18 Then Jesus came to them and said, “All authority in heaven and on earth has been given to me. 19 Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, 20 and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.”
             </p>
-          </a>
+          </div>
         </div>
         <p className={styles.description}>
           
