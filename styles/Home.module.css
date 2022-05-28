@@ -102,6 +102,9 @@
     color: black;
     border-color: hsl(212, 100%, 48%);
     background-image: url(/giphy-cloud.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
     opacity: 0.85;
     overflow: scroll;
     font-family: fantasy;
