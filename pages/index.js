@@ -44,24 +44,24 @@ export default function Home() {
         <h1 className={styles.title}>
           The Gospel of <a href="https://en.wikipedia.org/wiki/Gospel_of_Matthew"> Matthew</a>
         </h1>
-        <a href="https://bibleproject.com/downloads/posters/#load-posters-311">
-        <Image className={styles.illustration}
-          src="/42-Matthew.jpeg"
+        <a href="https://freesvg.org/drawing-of-word-jesus-written-in-shape-of-fish">
+        <Image className={styles.card1}
+          src="/Jesus-color-silhouette.svg"
           alt="new testament illustration"
           layout="intrinsic"
-          height="900px"
-          width="900px"
+          height="300px"
+          width="300px"
         />
-       </a>
+        </a>
         <p className={styles.description}>
           
-          <code className={styles.publisher}>Each Card contains a chapter in Matthew's gospel </code>
+          <code className={styles.publisher}>Click & Scroll through each chapter in Matthew's gospel </code>
         </p>
 
         <div className={styles.grid}>
         <div className={styles.card}>
-            <h2>Chapter 1 &darr;</h2>
-            <p>The Genealogy of Jesus the Messiah
+            <h2>Chapter 1 The Genealogy of Jesus the Messiah &darr;</h2>
+            <p>
 1 This is the genealogy[a] of Jesus the Messiah[b] the son of David, the son of Abraham:
 
 2 Abraham was the father of Isaac,
@@ -159,8 +159,8 @@ Joseph Accepts Jesus as His Son
           </div>
 
           <div className={styles.card}>
-            <h2>Chapter 2 &darr;</h2>
-            <p>The Magi Visit the Messiah
+            <h2>Chapter 2 The Magi Visit the Messiah &darr;</h2>
+            <p>
 2 After Jesus was born in Bethlehem in Judea, during the time of King Herod, Magi[a] from the east came to Jerusalem 2 and asked, “Where is the one who has been born king of the Jews? We saw his star when it rose and have come to worship him.”
 
 3 When King Herod heard this he was disturbed, and all Jerusalem with him. 4 When he had called together all the people’s chief priests and teachers of the law, he asked them where the Messiah was to be born. 5 “In Bethlehem in Judea,” they replied, “for this is what the prophet has written:
@@ -198,8 +198,8 @@ The Return to Nazareth
           <div
             className={styles.card}
           >
-            <h2>Chapter 3 &darr;</h2>
-            <p>John the Baptist Prepares the Way
+            <h2>Chapter 3 John the Baptist Prepares the Way &darr;</h2>
+            <p>
 3 In those days John the Baptist came, preaching in the wilderness of Judea 2 and saying, “Repent, for the kingdom of heaven has come near.” 3 This is he who was spoken of through the prophet Isaiah:
 
 “A voice of one calling in the wilderness,
@@ -223,9 +223,9 @@ The Baptism of Jesus
           <div
             className={styles.card}
           >
-            <h2>Chapter 4 &darr;</h2>
+            <h2>Chapter 4 Jesus Is Tested in the Wilderness &darr;</h2>
             <p>
-            Jesus Is Tested in the Wilderness
+            
 4 Then Jesus was led by the Spirit into the wilderness to be tempted[a] by the devil. 2 After fasting forty days and forty nights, he was hungry. 3 The tempter came to him and said, “If you are the Son of God, tell these stones to become bread.”
 
 4 Jesus answered, “It is written: ‘Man shall not live on bread alone, but on every word that comes from the mouth of God.’[b]”
@@ -271,9 +271,9 @@ Jesus Heals the Sick
           <div
             className={styles.card}
           >
-            <h2>Chapter 5 &darr;</h2>
+            <h2>Chapter 5 Introduction to the Sermon on the Mount &darr;</h2>
             <p>
-            Introduction to the Sermon on the Mount
+            
 5 Now when Jesus saw the crowds, he went up on a mountainside and sat down. His disciples came to him, 2 and he began to teach them.
 
 The Beatitudes
@@ -333,9 +333,9 @@ Love for Enemies
           <div
             className={styles.card}
           >
-            <h2>Chapter 6 &darr;</h2>
+            <h2>Chapter 6  Giving to the Needy &darr;</h2>
             <p>
-            Giving to the Needy
+           
 6 “Be careful not to practice your righteousness in front of others to be seen by them. If you do, you will have no reward from your Father in heaven.
 
 2 “So when you give to the needy, do not announce it with trumpets, as the hypocrites do in the synagogues and on the streets, to be honored by others. Truly I tell you, they have received their reward in full. 3 But when you give to the needy, do not let your left hand know what your right hand is doing, 4 so that your giving may be in secret. Then your Father, who sees what is done in secret, will reward you.
@@ -378,9 +378,9 @@ Do Not Worry
           <div
             className={styles.card}
           >
-            <h2>Chapter 7 &darr;</h2>
+            <h2>Chapter 7 Judging Others &darr;</h2>
             <p>
-            Judging Others
+            
 7 “Do not judge, or you too will be judged. 2 For in the same way you judge others, you will be judged, and with the measure you use, it will be measured to you.
 
 3 “Why do you look at the speck of sawdust in your brother’s eye and pay no attention to the plank in your own eye? 4 How can you say to your brother, ‘Let me take the speck out of your eye,’ when all the time there is a plank in your own eye? 5 You hypocrite, first take the plank out of your own eye, and then you will see clearly to remove the speck from your brother’s eye.
@@ -411,9 +411,9 @@ The Wise and Foolish Builders
           <div
             className={styles.card}
           >
-            <h2>Chapter 8 &darr;</h2>
+            <h2>Chapter 8 Jesus Heals a Man With Leprosy &darr;</h2>
             <p>
-            Jesus Heals a Man With Leprosy
+            
 8 When Jesus came down from the mountainside, large crowds followed him. 2 A man with leprosy[a] came and knelt before him and said, “Lord, if you are willing, you can make me clean.”
 
 3 Jesus reached out his hand and touched the man. “I am willing,” he said. “Be clean!” Immediately he was cleansed of his leprosy. 4 Then Jesus said to him, “See that you don’t tell anyone. But go, show yourself to the priest and offer the gift Moses commanded, as a testimony to them.”
@@ -465,9 +465,9 @@ Jesus Restores Two Demon-Possessed Men
           <div
             className={styles.card}
           >
-            <h2>Chapter 9 &darr;</h2>
+            <h2>Chapter 9 Jesus Forgives and Heals a Paralyzed Man &darr;</h2>
             <p>
-            Jesus Forgives and Heals a Paralyzed Man
+            
 9 Jesus stepped into a boat, crossed over and came to his own town. 2 Some men brought to him a paralyzed man, lying on a mat. When Jesus saw their faith, he said to the man, “Take heart, son; your sins are forgiven.”
 
 3 At this, some of the teachers of the law said to themselves, “This fellow is blaspheming!”
@@ -520,9 +520,9 @@ The Workers Are Few
           <div
             className={styles.card}
           >
-            <h2>Chapter 10 &darr;</h2>
+            <h2>Chapter 10 Jesus Sends Out the Twelve &darr;</h2>
             <p>
-            Jesus Sends Out the Twelve
+            
 10 Jesus called his twelve disciples to him and gave them authority to drive out impure spirits and to heal every disease and sickness.
 
 2 These are the names of the twelve apostles: first, Simon (who is called Peter) and his brother Andrew; James son of Zebedee, and his brother John; 3 Philip and Bartholomew; Thomas and Matthew the tax collector; James son of Alphaeus, and Thaddaeus; 4 Simon the Zealot and Judas Iscariot, who betrayed him.
@@ -557,9 +557,9 @@ a daughter-in-law against her mother-in-law—
           <div
             className={styles.card}
           >
-            <h2>Chapter 11 &darr;</h2>
+            <h2>Chapter 11 Jesus and John the Baptist &darr;</h2>
             <p>
-            Jesus and John the Baptist
+            
 11 After Jesus had finished instructing his twelve disciples, he went on from there to teach and preach in the towns of Galilee.[a]
 
 2 When John, who was in prison, heard about the deeds of the Messiah, he sent his disciples 3 to ask him, “Are you the one who is to come, or should we expect someone else?”
@@ -597,9 +597,9 @@ The Father Revealed in the Son
           <div
             className={styles.card}
           >
-            <h2>Chapter 12 &darr;</h2>
+            <h2>Chapter 12  Jesus Is Lord of the Sabbath &darr;</h2>
             <p>
-            Jesus Is Lord of the Sabbath
+           
 12 At that time Jesus went through the grainfields on the Sabbath. His disciples were hungry and began to pick some heads of grain and eat them. 2 When the Pharisees saw this, they said to him, “Look! Your disciples are doing what is unlawful on the Sabbath.”
 
 3 He answered, “Haven’t you read what David did when he and his companions were hungry? 4 He entered the house of God, and he and his companions ate the consecrated bread—which was not lawful for them to do, but only for the priests. 5 Or haven’t you read in the Law that the priests on Sabbath duty in the temple desecrate the Sabbath and yet are innocent? 6 I tell you that something greater than the temple is here. 7 If you had known what these words mean, ‘I desire mercy, not sacrifice,’[a] you would not have condemned the innocent. 8 For the Son of Man is Lord of the Sabbath.”
@@ -656,9 +656,9 @@ Jesus’ Mother and Brothers
           <div
             className={styles.card}
           >
-            <h2>Chapter 13 &darr;</h2>
+            <h2>Chapter 13 The Parable of the Sower &darr;</h2>
             <p>
-            The Parable of the Sower
+            
 13 That same day Jesus went out of the house and sat by the lake. 2 Such large crowds gathered around him that he got into a boat and sat in it, while all the people stood on the shore. 3 Then he told them many things in parables, saying: “A farmer went out to sow his seed. 4 As he was scattering the seed, some fell along the path, and the birds came and ate it up. 5 Some fell on rocky places, where it did not have much soil. It sprang up quickly, because the soil was shallow. 6 But when the sun came up, the plants were scorched, and they withered because they had no root. 7 Other seed fell among thorns, which grew up and choked the plants. 8 Still other seed fell on good soil, where it produced a crop—a hundred, sixty or thirty times what was sown. 9 Whoever has ears, let them hear.”
 
 10 The disciples came to him and asked, “Why do you speak to the people in parables?”
@@ -738,9 +738,9 @@ But Jesus said to them, “A prophet is not without honor except in his own town
           <div
             className={styles.card}
           >
-            <h2>Chapter 14 &darr;</h2>
+            <h2>Chapter 14 John the Baptist Beheaded &darr;</h2>
             <p>
-            John the Baptist Beheaded
+            
 14 At that time Herod the tetrarch heard the reports about Jesus, 2 and he said to his attendants, “This is John the Baptist; he has risen from the dead! That is why miraculous powers are at work in him.”
 
 3 Now Herod had arrested John and bound him and put him in prison because of Herodias, his brother Philip’s wife, 4 for John had been saying to him: “It is not lawful for you to have her.” 5 Herod wanted to kill John, but he was afraid of the people, because they considered John a prophet.
@@ -782,9 +782,9 @@ Then Peter got down out of the boat, walked on the water and came toward Jesus. 
           <div
             className={styles.card}
           >
-            <h2>Chapter 15 &darr;</h2>
+            <h2>Chapter 15  That Which Defiles &darr;</h2>
             <p>
-            That Which Defiles
+           
 15 Then some Pharisees and teachers of the law came to Jesus from Jerusalem and asked, 2 “Why do your disciples break the tradition of the elders? They don’t wash their hands before they eat!”
 
 3 Jesus replied, “And why do you break the command of God for the sake of your tradition? 4 For God said, ‘Honor your father and mother’[a] and ‘Anyone who curses their father or mother is to be put to death.’[b] 5 But you say that if anyone declares that what might have been used to help their father or mother is ‘devoted to God,’ 6 they are not to ‘honor their father or mother’ with it. Thus you nullify the word of God for the sake of your tradition. 7 You hypocrites! Isaiah was right when he prophesied about you:
@@ -837,9 +837,9 @@ Jesus Feeds the Four Thousand
           <div
             className={styles.card}
           >
-            <h2>Chapter 16 &darr;</h2>
+            <h2>Chapter 16  The Demand for a Sign &darr;</h2>
             <p>
-            The Demand for a Sign
+           
 16 The Pharisees and Sadducees came to Jesus and tested him by asking him to show them a sign from heaven.
 
 2 He replied, “When evening comes, you say, ‘It will be fair weather, for the sky is red,’ 3 and in the morning, ‘Today it will be stormy, for the sky is red and overcast.’ You know how to interpret the appearance of the sky, but you cannot interpret the signs of the times.[a] 4 A wicked and adulterous generation looks for a sign, but none will be given it except the sign of Jonah.” Jesus then left them and went away.
@@ -876,8 +876,8 @@ Jesus Predicts His Death
           </div>
 
           <div className={styles.card}>
-            <h2>Chapter 17 &darr;</h2>
-            <p>The Transfiguration
+            <h2>Chapter 17 The Transfiguration &darr;</h2>
+            <p>
 17 After six days Jesus took with him Peter, James and John the brother of James, and led them up a high mountain by themselves. 2 There he was transfigured before them. His face shone like the sun, and his clothes became as white as the light. 3 Just then there appeared before them Moses and Elijah, talking with Jesus.
 
 4 Peter said to Jesus, “Lord, it is good for us to be here. If you wish, I will put up three shelters—one for you, one for Moses and one for Elijah.”
@@ -917,8 +917,8 @@ When Peter came into the house, Jesus was the first to speak. “What do you thi
           </div>
 
           <div className={styles.card}>
-            <h2>Chapter 18 &darr;</h2>
-            <p>The Greatest in the Kingdom of Heaven
+            <h2>Chapter 18 The Greatest in the Kingdom of Heaven &darr;</h2>
+            <p>
 18 At that time the disciples came to Jesus and asked, “Who, then, is the greatest in the kingdom of heaven?”
 
 2 He called a little child to him, and placed the child among them. 3 And he said: “Truly I tell you, unless you change and become like little children, you will never enter the kingdom of heaven. 4 Therefore, whoever takes the lowly position of this child is the greatest in the kingdom of heaven. 5 And whoever welcomes one such child in my name welcomes me.
@@ -963,8 +963,8 @@ The Parable of the Unmerciful Servant
           <div
             className={styles.card}
           >
-            <h2>Chapter 19 &darr;</h2>
-            <p>Divorce
+            <h2>Chapter 19 Divorce &darr;</h2>
+            <p>
 19 When Jesus had finished saying these things, he left Galilee and went into the region of Judea to the other side of the Jordan. 2 Large crowds followed him, and he healed them there.
 
 3 Some Pharisees came to him to test him. They asked, “Is it lawful for a man to divorce his wife for any and every reason?”
@@ -1013,9 +1013,9 @@ Jesus replied, “‘You shall not murder, you shall not commit adultery, you sh
           <div
             className={styles.card}
           >
-            <h2>Chapter 20 &darr;</h2>
+            <h2>Chapter 20 he Parable of the Workers in the Vineyard &darr;</h2>
             <p>
-            The Parable of the Workers in the Vineyard
+            T
 20 “For the kingdom of heaven is like a landowner who went out early in the morning to hire workers for his vineyard. 2 He agreed to pay them a denarius[a] for the day and sent them into his vineyard.
 
 3 “About nine in the morning he went out and saw others standing in the marketplace doing nothing. 4 He told them, ‘You also go and work in my vineyard, and I will pay you whatever is right.’ 5 So they went.
@@ -1067,9 +1067,9 @@ Two Blind Men Receive Sight
           <div
             className={styles.card}
           >
-            <h2>Chapter 21 &darr;</h2>
+            <h2>Chapter 21 Jesus Comes to Jerusalem as King &darr;</h2>
             <p>
-            Jesus Comes to Jerusalem as King
+            
 21 As they approached Jerusalem and came to Bethphage on the Mount of Olives, Jesus sent two disciples, 2 saying to them, “Go to the village ahead of you, and at once you will find a donkey tied there, with her colt by her. Untie them and bring them to me. 3 If anyone says anything to you, say that the Lord needs them, and he will send them right away.”
 
 4 This took place to fulfill what was spoken through the prophet:
@@ -1163,9 +1163,9 @@ the Lord has done this,
           <div
             className={styles.card}
           >
-            <h2>Chapter 22 &darr;</h2>
+            <h2>Chapter 22  The Parable of the Wedding Banquet &darr;</h2>
             <p>
-            The Parable of the Wedding Banquet
+           
 22 Jesus spoke to them again in parables, saying: 2 “The kingdom of heaven is like a king who prepared a wedding banquet for his son. 3 He sent his servants to those who had been invited to the banquet to tell them to come, but they refused to come.
 
 4 “Then he sent some more servants and said, ‘Tell those who have been invited that I have prepared my dinner: My oxen and fattened cattle have been butchered, and everything is ready. Come to the wedding banquet.’
@@ -1222,9 +1222,9 @@ until I put your enemies
           <div
             className={styles.card}
           >
-            <h2>Chapter 23 &darr;</h2>
+            <h2>Chapter 23  A Warning Against Hypocrisy &darr;</h2>
             <p>
-            A Warning Against Hypocrisy
+           
 23 Then Jesus said to the crowds and to his disciples: 2 “The teachers of the law and the Pharisees sit in Moses’ seat. 3 So you must be careful to do everything they tell you. But do not do what they do, for they do not practice what they preach. 4 They tie up heavy, cumbersome loads and put them on other people’s shoulders, but they themselves are not willing to lift a finger to move them.
 
 5 “Everything they do is done for people to see: They make their phylacteries[a] wide and the tassels on their garments long; 6 they love the place of honor at banquets and the most important seats in the synagogues; 7 they love to be greeted with respect in the marketplaces and to be called ‘Rabbi’ by others.
@@ -1295,9 +1295,9 @@ The Day and Hour Unknown
           <div
             className={styles.card}
           >
-            <h2>Chapter 25 &darr;</h2>
+            <h2>Chapter 25 The Parable of the Ten Virgins &darr;</h2>
             <p>
-            The Parable of the Ten Virgins
+            
 25 “At that time the kingdom of heaven will be like ten virgins who took their lamps and went out to meet the bridegroom. 2 Five of them were foolish and five were wise. 3 The foolish ones took their lamps but did not take any oil with them. 4 The wise ones, however, took oil in jars along with their lamps. 5 The bridegroom was a long time in coming, and they all became drowsy and fell asleep.
 
 6 “At midnight the cry rang out: ‘Here’s the bridegroom! Come out to meet him!’
@@ -1353,9 +1353,9 @@ The Sheep and the Goats
           <div
             className={styles.card}
           >
-            <h2>Chapter 26 &darr;</h2>
+            <h2>Chapter 26  The Plot Against Jesus &darr;</h2>
             <p>
-            The Plot Against Jesus
+           
 26 When Jesus had finished saying all these things, he said to his disciples, 2 “As you know, the Passover is two days away—and the Son of Man will be handed over to be crucified.”
 
 3 Then the chief priests and the elders of the people assembled in the palace of the high priest, whose name was Caiaphas, 4 and they schemed to arrest Jesus secretly and kill him. 5 “But not during the festival,” they said, “or there may be a riot among the people.”
@@ -1468,9 +1468,9 @@ Immediately a rooster crowed. 75 Then Peter remembered the word Jesus had spoken
           <div
             className={styles.card}
           >
-            <h2>Chapter 27 &darr;</h2>
+            <h2>Chapter 27  Judas Hangs Himself &darr;</h2>
             <p>
-            Judas Hangs Himself
+           
 27 Early in the morning, all the chief priests and the elders of the people made their plans how to have Jesus executed. 2 So they bound him, led him away and handed him over to Pilate the governor.
 
 3 When Judas, who had betrayed him, saw that Jesus was condemned, he was seized with remorse and returned the thirty pieces of silver to the chief priests and the elders. 4 “I have sinned,” he said, “for I have betrayed innocent blood.”
@@ -1550,9 +1550,9 @@ The Guard at the Tomb
           <div
             className={styles.card}
           >
-            <h2>Chapter 28 &darr;</h2>
+            <h2>Chapter 28  Jesus Has Risen &darr;</h2>
             <p>
-            Jesus Has Risen
+           
 28 After the Sabbath, at dawn on the first day of the week, Mary Magdalene and the other Mary went to look at the tomb.
 
 2 There was a violent earthquake, for an angel of the Lord came down from heaven and, going to the tomb, rolled back the stone and sat on it. 3 His appearance was like lightning, and his clothes were white as snow. 4 The guards were so afraid of him that they shook and became like dead men.

@@ -127,10 +127,16 @@
     font-family: cursive;
 }
 
+.card h2:hover {
+    text-decoration: underline;
+    color: black;
+}
+
 .card p {
     margin: 0;
     font-size: 1.25rem;
     line-height: 1.5;
+    font-family: monospace;
 }
 
 .logo {
