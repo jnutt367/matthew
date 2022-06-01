@@ -1,10 +1,12 @@
 .container {
     padding: 0 2rem;
-    background-image: url(/gold.gif);
+    background-color: black;
     background-size: contain;
 }
 
 .main {
+    background-color: #eaeaea;
+    background-size: contain;
     min-height: 100vh;
     padding: 4rem 0;
     flex: 1;
@@ -12,6 +14,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    border-radius: 15px;
 }
 
 .footer {
@@ -30,6 +33,17 @@
     flex-grow: 1;
 }
 
+.nav ul {
+    display: flex;
+    flex-basis: auto;
+    color: #fafafa;
+    justify-content: space-around;
+    list-style: none;
+    font-size: xx-large;
+    padding-top: 3rem;
+    font-family: cursive;
+}
+
 .title a {
     color: white;
     text-decoration: none;
@@ -45,7 +59,7 @@
     margin: 2rem;
     line-height: 1.15;
     font-size: 4rem;
-    font-family: cursive;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .title,
@@ -54,28 +68,23 @@
 }
 
 .description {
+    color: white;
     margin: 4rem 0;
     line-height: 1.5;
-    font-size: 1.5rem;
+    font-size: 3rem;
+    padding: 2rem;
+    max-width: 60rem;
 }
 
 .code {
-    background: #fafafa;
+    background-color: transparent;
+    opacity: 0.7;
     border-radius: 5px;
     padding: 0.75rem;
-    font-size: 1.1rem;
-    font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
-}
-
-.nav ul {
-    display: flex;
-    flex-basis: auto;
-    color: #fafafa;
-    justify-content: space-around;
-    list-style: none;
-    font-size: xx-large;
-    padding-top: 3rem;
-    font-family: cursive;
+    color: white;
+    font-size: x-large;
+    text-decoration: underline;
+    font-family: fantasy;
 }
 
 .grid {
@@ -84,12 +93,6 @@
     justify-content: center;
     flex-wrap: wrap;
     max-width: 1400px;
-}
-
-.illustration {
-    padding-top: 3rem;
-    border-radius: 15px;
-    margin-right: 3rem;
 }
 
 .card {
@@ -104,7 +107,7 @@
     border-radius: 10px;
     transition: color 0.15s ease, border-color 0.15s ease;
     max-width: 300px;
-    font-family: fantasy;
+    font-family: monospace;
 }
 
 .card:hover,
@@ -118,25 +121,19 @@
     background-color: black;
     opacity: 0.85;
     overflow: scroll;
-    font-family: fantasy;
+    font-family: monospace;
 }
 
 .card h2 {
     margin: 0 0 1rem 0;
     font-size: 1.5rem;
-    font-family: cursive;
-}
-
-.card h2:hover {
-    text-decoration: underline;
-    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .card p {
     margin: 0;
     font-size: 1.25rem;
     line-height: 1.5;
-    font-family: monospace;
 }
 
 .logo {
@@ -146,8 +143,53 @@
 
 .publisher {
     font-family: monospace;
-    color: white;
+    color: black;
     font-size: 1.5rem;
+}
+
+.h1 {
+    background-image: url(/gold.gif);
+    margin-top: 3rem;
+    padding: 1.5rem;
+    text-align: left;
+    color: inherit;
+    text-decoration: none;
+    border: 1px solid #eaeaea;
+    border-radius: 10px;
+    transition: color 0.15s ease, border-color 0.15s ease;
+    max-width: 300px;
+    font-family: fantasy;
+}
+
+.illustration {
+    border-radius: 15px;
+    margin: 3rem;
+}
+
+.h1:hover {
+    color: white;
+    border-color: hsl(14, 100%, 48%);
+    background-image: url(/gold.gif);
+    opacity: 0.85;
+    font-family: fantasy;
+}
+
+@media (max-width: 600px) {
+    .grid {
+        width: 100%;
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 900px) {
+    .container {
+        background-size: contain;
+    }
+    .code {
+        color: black;
+        font-size: x-large;
+        text-decoration: underline;
+    }
 }
 
 @media (max-width: 600px) {
@@ -159,7 +201,7 @@
 
 @media (max-width: 769px) {
     .nav ul {
-        display: flex;
+        display: none;
         color: #fafafa;
         justify-content: center;
         flex-direction: column;
