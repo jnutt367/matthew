@@ -1,6 +1,6 @@
 .container {
     padding: 0 2rem;
-    background-color: black;
+    background-image: url(/gold.gif);
     background-size: contain;
 }
 
@@ -41,7 +41,7 @@
     list-style: none;
     font-size: xx-large;
     padding-top: 3rem;
-    font-family: cursive;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .title a {
@@ -113,9 +113,9 @@
 .card:hover,
 .card:focus,
 .card:active {
-    color: black;
+    color: white;
     border-color: hsl(212, 100%, 48%);
-    background-image: url(/giphy-cloud.gif);
+    background-image: url(/gold.gif);
     background-repeat: no-repeat;
     background-size: cover;
     background-color: black;
