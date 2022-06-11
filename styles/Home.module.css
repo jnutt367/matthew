@@ -1,11 +1,12 @@
 .container {
     padding: 0 2rem;
-    background-image: url(/gold.gif);
+    background-image: url(/cloud_lightning.webp);
     background-size: contain;
 }
 
 .main {
     background-color: #eaeaea;
+    background-size: contain;
     background-size: contain;
     min-height: 100vh;
     padding: 4rem 0;
