@@ -46,11 +46,11 @@ export default function Home() {
         </h1>
         <a href="https://freesvg.org/drawing-of-word-jesus-written-in-shape-of-fish">
         <Image className={styles.card1}
-          src="/Jesus-color-silhouette.svg"
+          src="/WS_Gospel_Poster.jpeg"
           alt="new testament illustration"
           layout="intrinsic"
-          height="300px"
-          width="300px"
+          height="1000px"
+          width="1000px"
         />
         </a>
         <p className={styles.description}>
