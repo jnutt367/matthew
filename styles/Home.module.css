@@ -89,7 +89,7 @@
     text-shadow: 5px 5px black;
 }
 
-.nav ul {
+.nav ul li {
     display: flex;
     flex-basis: auto;
     color: #fafafa;
@@ -101,7 +101,7 @@
 }
 
 .nav ul:hover {
-    color: silver;
+    color: orange;
     text-decoration: underline;
 }
 
@@ -140,7 +140,7 @@
     color: black;
     text-underline-position: above;
     border-color: hsl(212, 100%, 48%);
-    background-image: url(/jesus.gif);
+    background-image: url(/monophy.gif);
     background-repeat: no-repeat;
     background-size: cover;
     background-color: white;
