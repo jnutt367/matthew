@@ -15,7 +15,6 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border-radius: 15px;
 }
 
 .footer {
@@ -80,7 +79,7 @@
 
 .code {
     border-radius: 5px;
-    color: white;
+    color: black;
     background-image: url(/cloud_lightning.webp);
     padding: 3rem;
     font-size: 1.1rem;
@@ -132,7 +131,6 @@
     overflow: scroll;
     text-decoration: none;
     border: 1px solid #eaeaea;
-    border-radius: 10px;
     transition: color 0.15s ease, border-color 0.15s ease;
     max-width: 300px;
     font-family: monospace;
@@ -143,7 +141,7 @@
 .card:active {
     color: black;
     text-underline-position: above;
-    border-color: hsl(212, 100%, 48%);
+    border-color: hsl(61, 65%, 64%);
     background-image: url(/monophy.gif);
     background-repeat: no-repeat;
     background-size: cover;

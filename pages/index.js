@@ -44,15 +44,7 @@ export default function Home() {
         <h1 className={styles.title}>
           The Gospel of <a href="https://en.wikipedia.org/wiki/Gospel_of_Matthew"> Matthew</a>
         </h1>
-        <a href="https://freesvg.org/drawing-of-word-jesus-written-in-shape-of-fish">
-        <Image className={styles.card1}
-          src="/WS_Gospel_Poster.jpeg"
-          alt="new testament illustration"
-          layout="intrinsic"
-          height="1000px"
-          width="1000px"
-        />
-        </a>
+        
         <p className={styles.description}>
           
           <code className={styles.publisher}>Click & Scroll through each chapter in Matthew's gospel </code>
