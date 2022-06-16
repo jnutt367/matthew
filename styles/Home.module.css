@@ -9,12 +9,13 @@
     background-size: contain;
     background-size: contain;
     min-height: 100vh;
-    padding: 4rem 0;
+    padding: 1rem;
     flex: 1;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    box-shadow: 10px 5px 5px rgba(214, 123, 20, 0.993);
 }
 
 .footer {
