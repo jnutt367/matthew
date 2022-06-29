@@ -18,6 +18,13 @@
     box-shadow: 10px 5px 5px rgba(214, 123, 20, 0.993);
 }
 
+.flex {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
+
 .footer {
     display: flex;
     flex: 1;
