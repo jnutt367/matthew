@@ -279,3 +279,9 @@
         font-size: 2rem;
     }
 }
+
+@media (min-width: 769px) {
+    .title {
+        font-size: 5rem;
+    }
+}
