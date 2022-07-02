@@ -270,3 +270,12 @@
         margin-left: -2rem;
     }
 }
+
+@media (max-width: 500px) {
+    .publisher {
+        font-size: 1.5rem;
+    }
+    .title {
+        font-size: 2rem;
+    }
+}
