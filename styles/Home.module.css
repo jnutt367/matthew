@@ -104,7 +104,7 @@
     padding-right: 3rem;
     margin: 0rem 0;
     line-height: 1.5;
-    font-size: 2rem;
+    font-size: 1rem;
     max-width: 60rem;
 }
 
@@ -114,6 +114,7 @@
     text-shadow: 2px 2px black;
     background-image: url(/cloud_lightning.webp);
     padding: 3rem;
+    margin: 3rem;
     font-size: 1.1rem;
     font-weight: 900;
     font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
@@ -128,8 +129,12 @@
 
 .span {
     font-size: xx-large;
-    color: #fafafa;
+    color: orange;
     text-shadow: 1px 1px black;
+}
+
+.span:hover {
+    color: black;
 }
 
 .nav ul li {
@@ -158,13 +163,14 @@
 
 .h2 {
     background-image: url(/cloud_lightning.webp);
+    opacity: 0.75;
     background-size: cover;
-    text-shadow: 1px 1px black;
+    text-shadow: 1px 1px white;
     margin-top: 0rem;
     padding: 2rem;
     text-align: left;
     font-size: larger;
-    color: white;
+    color: black;
     text-decoration: none;
     transition: color .5s ease, border-color 0.15s ease;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -172,13 +178,11 @@
 
 .h2:hover {
     color: black;
-    opacity: 0.7;
-    text-shadow: 1px 2px whitesmoke;
+    text-shadow: 1px 2px orange;
     border-color: hsl(184, 42%, 62%);
     text-decoration: dashed;
     background-image: url(/cloud_lightning.webp);
     opacity: 0.85;
-    font-size: x-large;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
@@ -241,10 +245,11 @@
 }
 
 .flex {
-    padding-top: 2rem;
-    padding-bottom: 2rem;
+    margin-top: -100px;
+    padding-top: 1rem;
+    padding-bottom: 0rem;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .publisher {
@@ -281,8 +286,21 @@
     }
 }
 
-@media (min-width: 769px) {
+@media (min-width: 600px) {
     .title {
         font-size: 5rem;
+    }
+    .flex {
+        margin-top: 0rem;
+    }
+}
+
+@media (max-width: 500px) {
+    .flex {
+        display: grid;
+    }
+    .code {
+        height: 100px;
+        margin: 1rem;
     }
 }
