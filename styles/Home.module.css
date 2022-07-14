@@ -134,7 +134,7 @@
 }
 
 .span:hover {
-    color: black;
+    color: white;
 }
 
 .nav ul li {
@@ -162,8 +162,8 @@
 }
 
 .h2 {
-    background-image: url(/cloud_lightning.webp);
-    opacity: 0.75;
+    background-image: none;
+    opacity: 0.9;
     background-size: cover;
     text-shadow: 1px 1px white;
     margin-top: 0rem;
@@ -177,13 +177,12 @@
 }
 
 .h2:hover {
-    color: black;
-    text-shadow: 1px 2px orange;
+    color: white;
     border-color: hsl(184, 42%, 62%);
     text-decoration: dashed;
-    background-image: url(/cloud_lightning.webp);
+    background-color: black;
     opacity: 0.85;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .card {
