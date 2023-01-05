@@ -49,6 +49,16 @@ export default function Home() {
         <h1 className={styles.title}>
           <a href="https://en.wikipedia.org/wiki/Gospel_of_Matthew"> Matthew</a>
         </h1>
+       <Image 
+                                src="/matthew.jpeg"
+                                alt="Jesus teaching"
+                                height={900}
+                                width={2000}
+                                priority
+                              />
+                              <p className={styles.transcribed}>
+                                Transcribed by: Jason Daniel Nutt
+                              </p>
         <div className={styles.flex}>
             
             <a className={styles.code} href="https://the-holy-bible.vercel.app">HOME</a>
