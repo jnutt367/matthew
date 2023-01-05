@@ -49,6 +49,7 @@ export default function Home() {
         <h1 className={styles.title}>
           <a href="https://en.wikipedia.org/wiki/Gospel_of_Matthew"> Matthew</a>
         </h1>
+      <div className={styles.hero}>
        <Image 
                                 src="/matthew.jpg"
                                 alt="Jesus teaching"
@@ -1580,6 +1581,7 @@ The Great Commission
             </p>
           </div>
         </div>
+</div>
         <p className={styles.description}>
           
           <code className={styles.publisher}>Coded, Published & Deployed by His servant: Jason Daniel Nutt </code>
