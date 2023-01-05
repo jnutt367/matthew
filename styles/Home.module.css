@@ -25,7 +25,10 @@
     justify-content: center;
     align-items: center;
 }
-
+.hero {
+  position:relative;
+  top: -170px;
+}
 .footer a {
     display: flex;
     justify-content: center;
