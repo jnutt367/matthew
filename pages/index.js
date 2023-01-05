@@ -28,8 +28,8 @@ export default function Home() {
                                 priority
                               />
                           
-       <a className={styles.code} href="https://the-holy-bible.vercel.app/">
-            <button>HOME</button>
+       <a href="https://the-holy-bible.vercel.app/">
+            <button className={styles.code}>HOME</button>
        </a>
                    
      
