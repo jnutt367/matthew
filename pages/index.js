@@ -52,11 +52,7 @@ export default function Home() {
         <div className={styles.flex}>
             
             <a className={styles.code} href="https://the-holy-bible.vercel.app">HOME</a>
-                       <a href="https://index-olive-two.vercel.app/">
-                       <button className={styles.code}>
-                            INDEX
-                        </button>
-                        </a>
+                   
                     </div>
         <p className={styles.description}>
           
