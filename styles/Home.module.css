@@ -282,15 +282,11 @@
     .publisher {
         font-size: 1.5rem;
     }
-    .title {
-        font-size: 2rem;
-    }
+   
 }
 
 @media (min-width: 600px) {
-    .title {
-        font-size: 5rem;
-    }
+   
     .flex {
         margin-top: 0rem;
     }
