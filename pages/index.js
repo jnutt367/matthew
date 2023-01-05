@@ -27,14 +27,12 @@ export default function Home() {
                                 width={2000}
                                 priority
                               />
-                              <p className={styles.transcribed}>
-                                Transcribed by: Jason Daniel Nutt
-                              </p>
-        <div className={styles.flex}>
-            
-            <a className={styles.code} href="https://the-holy-bible.vercel.app">HOME</a>
+                          
+       <a className={styles.code} href="https://the-holy-bible.vercel.app/">
+            <button>HOME</button>
+       </a>
                    
-                    </div>
+     
       
 
         <div className={styles.grid}>
