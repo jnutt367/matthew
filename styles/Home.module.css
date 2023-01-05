@@ -114,6 +114,9 @@
 .code {
     border-radius: 5px;
     color: grey;
+    display:grid;
+    align-items:center;
+    justify-content: center;
     position:relative;
     top: 25px;
     text-shadow: 2px 2px black;
