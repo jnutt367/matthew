@@ -84,6 +84,8 @@
 
 .title {
     color:black;
+    position:relative;
+    top: -25px;
     background-size: cover;
     margin: 2rem;
     line-height: 1.15;
@@ -99,7 +101,7 @@
 }
 
 .description {
-    color: black;
+    color: grey;
     text-shadow: 2px 2px black;
     padding: 2rem;
     padding-right: 3rem;
@@ -111,7 +113,9 @@
 
 .code {
     border-radius: 5px;
-    color: black;
+    color: grey;
+    position:relative;
+    top: 25px;
     text-shadow: 2px 2px black;
     font-size: 1.1rem;
     font-weight: 900;
@@ -119,10 +123,10 @@
 }
 
 .code:hover {
-    color: white;
-    text-shadow: 1.5px 1.5px orange;
+    color: black;
+    text-shadow: 1.5px 1.5px white;
     opacity: 0.9;
-    cursor: help;
+    cursor:pointer;
 }
 
 .span {
