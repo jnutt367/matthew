@@ -299,8 +299,5 @@
     .flex {
         display: grid;
     }
-    .code {
-        height: 100px;
-        margin: 1rem;
-    }
+    
 }
