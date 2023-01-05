@@ -50,7 +50,7 @@ export default function Home() {
           <a href="https://en.wikipedia.org/wiki/Gospel_of_Matthew"> Matthew</a>
         </h1>
        <Image 
-                                src="/matthew.jpeg"
+                                src="/matthew.jpg"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
