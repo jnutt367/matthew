@@ -27,7 +27,7 @@
 }
 .hero {
   position:relative;
-  top: -170px;
+  top: -120px;
 }
 .footer a {
     display: flex;
@@ -85,7 +85,7 @@
 
  .title {
   position: relative;
-  top: -100px;
+  top: -50px;
   margin-top: 0;
   font-family: Ariel, sans;
   text-shadow: 2px 2px grey;
