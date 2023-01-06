@@ -27,7 +27,7 @@
 }
 .hero {
   position:relative;
-  top: -170px;
+  top: -270px;
 }
 .footer a {
     display: flex;
@@ -82,18 +82,17 @@
     right: 12rem;
 }
 
-.title {
-    color:black;
-    position:relative;
-    top: -25px;
-    background-size: cover;
-    margin: 2rem;
-    line-height: 1.15;
-    height: 10rem;
-    width: 100%;
-    font-size: xx-large;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+ .title {
+  position: relative;
+  top: -100px;
+  margin-top: 0;
+  font-family: Ariel, sans;
+  text-shadow: 2px 2px grey;
+  font-size: 64px;
+  margin-bottom: 3rem;
 }
+
 
 .title,
 .description {
