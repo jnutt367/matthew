@@ -109,22 +109,13 @@
     font-size: 1rem;
     max-width: 60rem;
 }
-
-.code {
-    border-radius: 5px;
-    color: grey;
-    display:grid;
-    align-items:center;
-    justify-content: center;
-    position:relative;
-    top: 25px;
-    text-shadow: 2px 2px black;
-    font-size: 1.1rem;
-    font-weight: 900;
-    font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
+.button {
+    width:100%;
+    background-color: silver;
 }
 
-.code:hover {
+
+.button:hover {
     color: black;
     text-shadow: 1.5px 1.5px white;
     opacity: 0.9;
