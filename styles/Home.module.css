@@ -2,10 +2,11 @@
     padding: 0 2rem;
     background-image: url(/cloud_lightning.webp);
     background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .main {
-    background-color: white;
+    background-color: silver;
     background-size: contain;
     background-size: contain;
     min-height: 100vh;
@@ -27,7 +28,7 @@
 }
 .hero {
   position:relative;
-  top: -100px;
+  top: -105px;
 }
 .footer a {
     display: flex;
