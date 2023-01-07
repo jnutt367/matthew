@@ -29,7 +29,7 @@ export default function Home() {
                               />
                           
        <a href="https://the-holy-bible.vercel.app/">
-            <button className={styles.code}>HOME</button>
+            <button className={styles.button}>HOME</button>
        </a>
                    
      
