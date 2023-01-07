@@ -1,6 +1,6 @@
 .container {
     padding: 0 2rem;
-    background-image: url(/cloud_lightning.webp);
+    background-color: black;
     background-size: cover;
     background-repeat: no-repeat;
 }
