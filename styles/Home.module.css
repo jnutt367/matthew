@@ -84,7 +84,7 @@
 }
 
 
- .title {
+.title {
   position: relative;
   top: -50px;
   margin-top: 0;
@@ -95,6 +95,7 @@
 }
 
 
+
 .title,
 .description {
     text-align: center;
@@ -102,7 +103,7 @@
 
 .description {
     color: grey;
-    text-shadow: 2px 2px black;
+    text-shadow: 1px 1px black;
     padding: 2rem;
     padding-right: 3rem;
     margin: 0rem 0;
@@ -124,6 +125,7 @@
     border-style: 2p inset black;
     cursor:pointer;
 }
+
 .span {
     font-size: xx-large;
     color: orange;
@@ -166,11 +168,11 @@
     margin-top: 0rem;
     padding: 2rem;
     text-align: left;
-    font-size: large;
+    font-size: larger;
     color: black;
     text-decoration: none;
     transition: color .5s ease, border-color 0.15s ease;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .h2:hover {
@@ -183,7 +185,6 @@
 }
 
 .card {
-    background-color: ;
     margin: 1rem;
     padding: 1.5rem;
     text-align: left;
@@ -203,7 +204,7 @@
 .card:active {
     color: black;
     border-color: hsl(212, 100%, 48%);
-    background-image: url(/old-paper-texture.webp);
+    background-image: url(/closeup-old-paper-texture-age-marks.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     cursor: all-scroll;
@@ -250,9 +251,8 @@
 }
 
 .publisher {
-    font-family: monospace;
-    color: orange;
-    font-size: 2.5rem;
+    font-family: Arial, Verdana, Tahoma, Trebuchet MS, Times New Roman, Georgia, Garamond, Courier New, Brush Script MT; 
+    color: flex;
     margin-left: 2rem;
 }
 
@@ -274,12 +274,6 @@
     }
 }
 
-@media (max-width: 500px) {
-    .publisher {
-        font-size: 1.5rem;
-    }
-   
-}
 
 @media (min-width: 600px) {
    
