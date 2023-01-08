@@ -113,13 +113,15 @@
 .button {
     width:100%;
     background-color: silver;
+    border-radius: 15%;
 }
 
 
 .button:hover {
     color: black;
     text-shadow: 1.5px 1.5px white;
-    opacity: 0.9;
+    opacity: 1;
+    border: white;
     cursor:pointer;
 }
 
