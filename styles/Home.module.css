@@ -165,11 +165,11 @@
     margin-top: 0rem;
     padding: 2rem;
     text-align: left;
-    font-size: larger;
+    font-size: large;
     color: black;
     text-decoration: none;
     transition: color .5s ease, border-color 0.15s ease;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, serif;
 }
 
 .h2:hover {
@@ -224,7 +224,6 @@
 }
 
 .card p {
-    display:none;
     margin: 0;
     font-size: 1.25rem;
     line-height: 1.5;
@@ -232,7 +231,6 @@
 }
 
 .card p:hover {
-    display: block;
     text-shadow: 1px 1px white;
     font-weight: 900;
 }
