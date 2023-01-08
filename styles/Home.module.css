@@ -232,7 +232,7 @@
 }
 
 .card p:hover {
-    display: block;;
+    display: block;
     text-shadow: 1px 1px white;
     font-weight: 900;
 }
