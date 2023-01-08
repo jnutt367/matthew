@@ -1,6 +1,7 @@
 .container {
     padding: 0 2rem;
     background-color: black;
+    background-image: url(/old-paper-texture.webp);
     background-size: cover;
     background-repeat: no-repeat;
 }
