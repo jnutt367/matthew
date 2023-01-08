@@ -31,7 +31,9 @@ export default function Home() {
        <a href="https://the-holy-bible.vercel.app/">
             <button className={styles.button}>HOME</button>
        </a>
-                   
+         <a href="https://the-holy-bible.vercel.app/">
+            <button className={styles.button}>BOOKMARK</button>
+       </a>           
      
       
 
