@@ -113,7 +113,7 @@
 .button {
     width:100%;
     background-color: silver;
-    border-radius: 15%;
+    border-radius: 15px;
 }
 
 
@@ -121,10 +121,9 @@
     color: black;
     text-shadow: 1.5px 1.5px white;
     opacity: 1;
-    border: white;
+    border-style: 2p inset black;
     cursor:pointer;
 }
-
 .span {
     font-size: xx-large;
     color: orange;
