@@ -1,6 +1,7 @@
 .container {
     padding: 0 2rem;
     background-color: black;
+    background-image: url(/tea-stained.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -204,7 +205,7 @@
 .card:active {
     color: black;
     border-color: hsl(212, 100%, 48%);
-    background-image: url(/closeup-old-paper-texture-age-marks.jpg);
+    background-image: url(/tea-stained.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     cursor: all-scroll;
