@@ -21,7 +21,7 @@ export default function Home() {
         </h1>
       <div className={styles.hero}>
        <Image 
-                                src="/book-matthew.jpg"
+                                src="/matthew.jfif"
                                 alt="Jesus teaching"
                                 height={900}
                                 width={2000}
