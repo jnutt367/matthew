@@ -1,7 +1,6 @@
 .container {
     padding: 0 2rem;
-    background-color: black;
-    background-image: url(/tea-stained.jpg);
+    background-color: #2d2d2d;
     background-size: cover;
     background-repeat: no-repeat;
 }
