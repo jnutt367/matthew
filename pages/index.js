@@ -33,7 +33,7 @@ export default function Home() {
        </a>
 
          <a href="#PayPalButton">
-            <button className={styles.button}>Donate</button>
+            <button className={styles.button}>Contribute-> </button>
         </a> 
         <a href="https://mark-alpha.vercel.app/">
             <button className={styles.button}>Next</button>
