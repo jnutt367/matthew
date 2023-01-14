@@ -29,14 +29,14 @@ export default function Home() {
                               />
                           
        <a href="https://the-holy-bible.vercel.app/">
-            <button className={styles.button}>HOME</button>
+            <button className={styles.button}> ^ HOME ^ </button>
        </a>
 
          <a href="#PayPalButton">
-            <button className={styles.button}>Contribute-> </button>
+            <button className={styles.button}>Contribute > </button>
         </a> 
         <a href="https://mark-alpha.vercel.app/">
-            <button className={styles.button}>Next</button>
+            <button className={styles.button}>Next > </button>
        </a>           
 
       
