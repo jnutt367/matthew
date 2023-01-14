@@ -120,6 +120,7 @@
 
 .button:hover {
     color: black;
+    background-color: green;
     text-shadow: 1.5px 1.5px white;
     opacity: 1;
     border-style: 2p inset black;
