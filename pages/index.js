@@ -32,8 +32,10 @@ export default function Home() {
             <button className={styles.button}>HOME</button>
        </a>
 
-         <a href="https://the-holy-bible.vercel.app/">
-            <button className={styles.button}>Prev</button>
+         <a href="#PayPalButton">
+            <button className={styles.button}Donate</button>
+        </a> 
+        <a href="https://mark-alpha.vercel.app/">
             <button className={styles.button}>Next</button>
        </a>           
 
@@ -41,7 +43,7 @@ export default function Home() {
 
         <div className={styles.grid}>
         <div className={styles.card}>
-            <h2>Chapter 1 The Genealogy of Jesus the Messiah &darr;</h2>
+            <h3>Chapter 1 The Genealogy of Jesus the Messiah &darr;</h3>
             <p>
 1 This is the genealogy[a] of Jesus the Messiah[b] the son of David, the son of Abraham:
 
