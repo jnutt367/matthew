@@ -17,12 +17,12 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          <a href="https://en.wikipedia.org/wiki/Gospel_of_Matthew">The Book Of</a>
+          <a href="https://the-holy-bible.vercel.app/">The Book Of</a>
         </h1>
       <div className={styles.hero}>
        <Image 
-                                src="/Matthew_1.jpg"
-                                alt="Jesus teaching"
+                                src="/pexels-photo-4200823.webp"
+                                alt="Proverbs Mug wide view"
                                 height={900}
                                 width={2000}
                                 priority
