@@ -17,7 +17,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          <a href="https://the-holy-bible.vercel.app/">The Book Of</a>
+          <a href="https://the-holy-bible.vercel.app/">MATTHEW</a>
         </h1>
       <div className={styles.hero}>
        <Image 
