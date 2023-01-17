@@ -117,12 +117,12 @@
     justify-content: space-around;
 }
 .button {
-    height: 50px;
-    width: 100px;
+    height: 30px;
+    width: 75px;
     background-color: silver;
     align-items: center;
     justify-content: space-around;
-    padding: 20px;
+    padding: 10px;
 }
 
 
