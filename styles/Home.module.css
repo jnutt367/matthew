@@ -119,6 +119,7 @@
 .button {
     height: 30px;
     width: 75px;
+    font-size: small;
     background-color: silver;
     align-items: center;
     justify-content: space-around;
@@ -127,7 +128,7 @@
 
 
 .button:hover {
-     color: white;
+    color: white;
     background-color: brown;
     opacity: 0.7;
     text-shadow: 1px 1px black;
