@@ -21,7 +21,7 @@ export default function Home() {
         </h1>
       <div className={styles.hero}>
        <Image 
-                                src="/faith-4664706__340.webp"
+                                src="/matthew.jpg"
                                 alt="Proverbs Mug wide view"
                                 height={900}
                                 width={2000}
