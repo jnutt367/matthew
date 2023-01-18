@@ -1,12 +1,12 @@
 .container {
     padding: 0 2rem;
-    background-color: #2d2d2d;
+    background-color: #800080;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .main {
-    background-color: silver;
+    background-color: black;
     background-size: contain;
     background-size: contain;
     min-height: 100vh;
@@ -58,7 +58,7 @@
 }
 
 .title a {
-    color: black;
+    color: white;
     text-decoration: none;
     padding: 2rem;
     opacity: 0.9;
@@ -85,11 +85,12 @@
 
 
 .title {
+  color: white;
   position: relative;
   top: -50px;
   margin-top: 0;
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
-  text-shadow: 2px 2px grey;
+  text-shadow: 0px 0px 1px 1px grey;
   font-size: 36px;
   margin-bottom: 3.5rem;
 }
@@ -102,7 +103,6 @@
 }
 
 .description {
-    color: grey;
     text-shadow: 1px 1px black;
     padding: 2rem;
     padding-right: 3rem;
@@ -111,25 +111,12 @@
     font-size: 1rem;
     max-width: 60rem;
 }
-.nav {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-}
-.button {
-    height: 30px;
-    width: 70px;
-    font-size: 7px;
-    background-color: grey;
-    align-items: center;
-    justify-content: space-between;
-    padding: 5px;
-}
+
 
 
 .button:hover {
     color: white;
-    background-color: brown;
+    background-color:#cc8400;
     opacity: 0.7;
     text-shadow: 1px 1px black;
     opacity: 1;
@@ -147,20 +134,20 @@
     color: white;
 }
 
-.nav ul li {
+.nav {
     display: flex;
-    flex-basis: auto;
-    color: #fafafa;
+    flex-direction: row;
     justify-content: space-around;
-    list-style: none;
-    font-size: xx-large;
-    padding-top: 3rem;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-
-.nav ul:hover {
-    color: orange;
-    text-decoration: underline;
+.button {
+    color: white;
+    height: 30px;
+    width: 70px;
+    font-size: 7px;
+    background-color: #800080;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px;
 }
 
 .grid {
@@ -215,7 +202,7 @@
 .card:active {
     color: black;
     border-color: hsl(212, 100%, 48%);
-    background-image: url(/tea-stained.jpg);
+    background-image: url(/closeup-old-paper-texture-age-marks.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     cursor: all-scroll;
