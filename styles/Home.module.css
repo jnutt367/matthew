@@ -1,12 +1,12 @@
 .container {
     padding: 0 2rem;
-    background-color: #800080;
+    background-color: #C5B4E3;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .main {
-    background-color: black;
+    background-color: #C5B4E3;
     background-size: contain;
     background-size: contain;
     min-height: 100vh;
@@ -90,7 +90,7 @@
   top: -50px;
   margin-top: 0;
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
-  text-shadow: 0px 0px 1px 1px grey;
+  text-shadow: #FC0 1px 0 10px;
   font-size: 36px;
   margin-bottom: 3.5rem;
 }
