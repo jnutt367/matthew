@@ -215,20 +215,19 @@
 }
 
 .card h2 {
-    display: none;
+    color: #FFFDB777;
     margin: 0 0 1rem 0;
     font-size: 1.5rem;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .card h2:hover {
-    display: inline;
     text-shadow: 1px 1px white;
     color: black;
 }
 
 .card p {
-    display: none;
+    color: #FFFDB777;
     margin: 0;
     font-size: 1.25rem;
     line-height: 1.5;
@@ -236,7 +235,7 @@
 }
 
 .card p:hover {
-    display: inline;
+    color: black;
     text-shadow: 1px 1px white;
     font-weight: 900;
 }
