@@ -202,7 +202,7 @@
 .card:active {
     color: black;
     border-color: hsl(212, 100%, 48%);
-    background-image: url(/closeup-old-paper-texture-age-marks.jpg);
+    background-image: url(/tea-stained.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     cursor: all-scroll;
@@ -213,17 +213,20 @@
 }
 
 .card h2 {
+    display: hidden;
     margin: 0 0 1rem 0;
     font-size: 1.5rem;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .card h2:hover {
+    display: inline;
     text-shadow: 1px 1px white;
     color: black;
 }
 
 .card p {
+    display: hidden;
     margin: 0;
     font-size: 1.25rem;
     line-height: 1.5;
@@ -231,6 +234,7 @@
 }
 
 .card p:hover {
+    display: inline;
     text-shadow: 1px 1px white;
     font-weight: 900;
 }
