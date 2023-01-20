@@ -1,13 +1,14 @@
 .container {
     padding: 0 2rem;
-    background-color: #C5B4E3;
+    background-color: #9F2B68;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .main {
     background-image: url(/tea-stained.jpg);
-    background-size: contain;
+    background-size: cover;
+    background-repeat: no-repeat;
     min-height: 100vh;
     padding: 4rem 0;
     flex: 1;
