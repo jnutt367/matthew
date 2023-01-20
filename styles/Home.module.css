@@ -6,8 +6,7 @@
 }
 
 .main {
-    background-color: #FFFDB777;
-    background-size: contain;
+    background-image: url(/tea-stained.jpg);
     background-size: contain;
     min-height: 100vh;
     padding: 4rem 0;
