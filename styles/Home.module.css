@@ -1,12 +1,13 @@
 .container {
     padding: 0 2rem;
+    background-image: url(/closeup-old-paper-texture-age-marks.jpg);
     background-color: #9F2B68;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .main {
-    background-image: url(/closeup-old-paper-texture-age-marks.jpg);
+    background-color: #9F2B68;
     background-size: cover;
     min-height: 100vh;
     padding: 4rem 0;
