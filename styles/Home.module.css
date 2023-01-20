@@ -116,7 +116,7 @@
 
 .button:hover {
     color: white;
-    background-color:#cc8400;
+    background-color:#CBC3E3;
     opacity: 0.7;
     text-shadow: 1px 1px black;
     opacity: 1;
@@ -144,9 +144,10 @@
     height: 30px;
     width: 70px;
     font-size: 7px;
-    background-color: #800080;
+    border-radius: 50px 20px;
+    background-color: #9F2B68;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-evenly;
     padding: 5px;
 }
 
