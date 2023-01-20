@@ -8,7 +8,6 @@
 .main {
     background-image: url(/tea-stained.jpg);
     background-size: cover;
-    background-repeat: no-repeat;
     min-height: 100vh;
     padding: 4rem 0;
     flex: 1;
