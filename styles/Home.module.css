@@ -1,12 +1,12 @@
 .container {
     padding: 0 2rem;
-    background-color: #9F2B68;
+    background-image: url(/grunge-purple.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .main {
-    background-color: #9F2B68;
+    background-background-image: url(/grunge-purple.jpg);
     background-size: cover;
     min-height: 100vh;
     padding: 4rem 0;
