@@ -7,7 +7,6 @@
 
 .main {
     background-background-image: url(/grunge-purple.jpg);
-    background-size: cover;
     min-height: 100vh;
     padding: 4rem 0;
     flex: 1;
