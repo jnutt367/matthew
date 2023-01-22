@@ -201,7 +201,7 @@
     display: inline;
     color: black;
     border-color: hsl(212, 100%, 48%);
-    background-background-image: url(/grunge-purple.jpg);
+    background-image: url(/grunge-purple.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     cursor: all-scroll;
