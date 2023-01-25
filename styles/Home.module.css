@@ -1,11 +1,11 @@
 .container {
     
-    background-color: aqua;
+    background-color: #9F2B68;
     background-repeat: no-repeat;
 }
 
 .main {
-    background-color: aqua;
+    background-color: #9F2B68;
     min-height: 100vh;
     padding: 4rem 0;
     flex: 1;
