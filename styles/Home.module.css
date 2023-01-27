@@ -93,9 +93,9 @@
 }
 
 .instructions {
-    color: black;
+  color: black;
   position: relative;
-  top: -100px;
+  top: 10px;
   margin-top: 0;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   text-shadow: #FC0 1px 0 10px;
