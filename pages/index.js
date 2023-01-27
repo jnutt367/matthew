@@ -41,9 +41,12 @@ export default function Home() {
        </a>           
         </div>
 
-      
+        <h1 className={styles.title}>
+        Press to view Chapters 
+        </h1>
 
         <div className={styles.grid}>
+         
         <div className={styles.card}>
             <h2>Chapter 1 The Genealogy of Jesus the Messiah</h2>
             <p>
