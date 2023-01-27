@@ -44,7 +44,7 @@ export default function Home() {
         &darr; SCROLL DOWN &darr;
         </h1>
         <h1 className={styles.instructions}>
-        Press to view Chapters 
+        Touch to Read Chapters 
         </h1>
        
         <div className={styles.grid}>
