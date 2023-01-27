@@ -40,11 +40,13 @@ export default function Home() {
             <button className={styles.button}> Mark > </button>
        </a>           
         </div>
-
+  <h1 className={styles.instructions}>
+        &darr; SCROLL DOWN &darr;
+        </h1>
         <h1 className={styles.instructions}>
         Press to view Chapters 
         </h1>
-
+       
         <div className={styles.grid}>
          
         <div className={styles.card}>
