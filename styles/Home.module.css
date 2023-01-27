@@ -1,11 +1,11 @@
 .container {
     
-    background-color: #9F2B68;
+    background-color: white;
     background-repeat: no-repeat;
 }
 
 .main {
-    background-color: #9F2B68;
+    background-color: white;
     min-height: 100vh;
     padding: 4rem 0;
     flex: 1;
@@ -82,7 +82,7 @@
 
 
 .title {
-  color: white;
+  color: black;
   position: relative;
   top: -50px;
   margin-top: 0;
