@@ -93,6 +93,7 @@
 }
 
 .instructions {
+  text-align: center;
   color: black;
   position: relative;
   top: 10px;
