@@ -92,6 +92,16 @@
   margin-bottom: 3.5rem;
 }
 
+.instructions {
+    color: black;
+  position: relative;
+  top: -100px;
+  margin-top: 0;
+  font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+  text-shadow: #FC0 1px 0 10px;
+  font-size: 28px;
+  margin-bottom: 3.5rem;
+}
 
 
 .title,
