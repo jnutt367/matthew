@@ -41,7 +41,7 @@ export default function Home() {
        </a>           
         </div>
 
-        <h1 className={styles.title}>
+        <h1 className={styles.instructions}>
         Press to view Chapters 
         </h1>
 
