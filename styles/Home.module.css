@@ -14,7 +14,9 @@
     justify-content: center;
     align-items: center;
 }
-
+.image {
+    max-height: 500px;   
+}
 .footer {
     display: flex;
     flex: 1;
