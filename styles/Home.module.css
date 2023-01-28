@@ -295,12 +295,14 @@
 }
 
 
-@media (min-width: 600px) {
-   
-    .flex {
-        margin-top: 0rem;
+@media (min-width: 1080px) {
+         .image {
+        padding-left: 200px;
+        padding-right: 200px;
     }
 }
+   
+
 
 @media (max-width: 769px) {
     .flex {
