@@ -25,8 +25,8 @@ export default function Home() {
                                 src="/istockphoto-1156403463-612x612.jpg"
                                 alt="Proverbs Mug wide view"
                                 fill
-                                sizes="(max-width: 768px) 100vw,
-                                        (max-width: 1200px) 50vw,
+                                sizes="(max-width: 768px) 33vw,
+                                        (max-width: 1200px) 33vw,
                                                             33vw"
                                 priority
                               />
