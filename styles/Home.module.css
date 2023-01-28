@@ -302,7 +302,7 @@
     }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 769px) {
     .flex {
         display: grid;
     }
