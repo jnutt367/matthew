@@ -15,6 +15,10 @@
     align-items: center;
 }
 .image {
+    display: grid;
+    align-items: center;
+    justify-content: center ;
+    max-width: 700px;
     max-height: 500px;   
 }
 .footer {
