@@ -193,8 +193,8 @@
 }
 
 .card {
-    background-image: url(/king-cannabis_75348-26.avif);
-    background-size: cover;
+    background-image: url(/touch.png);
+    background-size: contain;
     background-repeat: no-repeat;
     color: transparent;
     margin: 1.5rem;
