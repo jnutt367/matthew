@@ -16,8 +16,7 @@
 }
 .image {
     display: grid;
-    align-items: center;
-    justify-content: center;
+    place-items: center;
     max-width: 700px;
     max-height: 500px; 
     margin-bottom: 1.5rem;
