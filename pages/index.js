@@ -20,7 +20,7 @@ export default function Home() {
          MATTHEW
         </h1>
       <div className={styles.hero}>
-       <Image 
+       <Image className={styles.image}
                                 src="/istockphoto-1156403463-612x612.jpg"
                                 alt="Proverbs Mug wide view"
                                 height={900}
