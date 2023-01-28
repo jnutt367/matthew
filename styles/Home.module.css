@@ -194,6 +194,8 @@
 
 .card {
     background-image: url(/touch.png);
+    background-size: cover;
+    background-repeat: no-repeat;
     color: white;
     margin: 1.5rem;
     padding: 1.5rem;
