@@ -17,8 +17,7 @@
 .image {
     display: grid;
     place-items: center;
-    width: 600px;
-    max-height: 700px; 
+    max-height: 900px; 
     margin-bottom: 1.5rem;
 }
 .footer {
