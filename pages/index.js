@@ -20,13 +20,15 @@ export default function Home() {
          MATTHEW
         </h1>
       <div className={styles.hero}>
-       <Image className={styles.image}
+        <div  className={styles.image}>
+       <Image
                                 src="/istockphoto-1156403463-612x612.jpg"
                                 alt="Proverbs Mug wide view"
                                 height={900}
                                 width={2000}
                                 priority
                               />
+        </div>                      
            <div className={styles.nav}>               
        <a href="https://the-holy-bible.vercel.app/">
             <button className={styles.button}> HOME </button>
