@@ -25,7 +25,7 @@ export default function Home() {
                                 src="/istockphoto-1156403463-612x612.jpg"
                                 alt="Proverbs Mug wide view"
                                 height="auto"
-                                width="100vw"
+                                width="2000px"
                                 priority
                               />
         </div>                      
