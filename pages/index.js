@@ -23,9 +23,9 @@ export default function Home() {
         <div  className={styles.image}>
        <Image
                                 src="/istockphoto-1156403463-612x612.jpg"
-                                alt="Proverbs Mug wide view"
-                                height="auto"
-                                width="2000px"
+                                alt="Jesus feeds the 5000"
+                                height={900}
+                                width={2000}
                                 priority
                               />
         </div>                      
