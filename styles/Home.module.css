@@ -213,7 +213,7 @@
     text-decoration: none;
     border: 3px solid #eaeaea;
     border-radius: 10px;
-    transition: color 5s ease, border-color 0.2s ease;
+    transition: color 0.15s ease, border-color 2s ease;
     max-width: 400px;
     font-family: monospace;
 }
