@@ -31,15 +31,34 @@ export default function Home() {
         </div>                      
            <div className={styles.nav}>               
        <a href="https://the-holy-bible.vercel.app/">
-            <button className={styles.button}> HOME </button>
+            <Image
+                                src="/leftarrow.png"
+                                alt="Left arrow"
+                                height={100}
+                                width={100}
+                                priority
+                              />
        </a>
 
          <a href="#PayPalButton">
-            <button className={styles.button}>CONTRIBUTE </button>
+           <Image
+                                src="/414-4149629_paypal-donate-button-clipart-paypal-donate-button.png"
+                                alt="Donate Button"
+                                height={75}
+                                width={75}
+                                priority
+                              />
+          
         </a> 
            
         <a href="https://mark-alpha.vercel.app/">
-            <button className={styles.button}> Mark > </button>
+            <Image
+                                src="/rightarrow.png"
+                                alt="Left arrow"
+                                height={100}
+                                width={100}
+                                priority
+                              />
        </a>           
         </div>
   
