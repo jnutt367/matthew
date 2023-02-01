@@ -42,12 +42,7 @@ export default function Home() {
             <button className={styles.button}> Mark > </button>
        </a>           
         </div>
-  <h1 className={styles.instructions}>
-        &darr; SCROLL DOWN &darr;
-        </h1>
-        <h1 className={styles.instructions}>
-        Touch to Read Chapters 
-        </h1>
+  
        
         <div className={styles.grid}>
          
