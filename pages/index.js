@@ -32,7 +32,7 @@ export default function Home() {
            <div className={styles.nav}>               
        <a href="https://the-holy-bible.vercel.app/">
             <Image
-                                src="/pngtree-vector-left-arrow-icon-png-image_997193.jpg"
+                                src="/arrow-157549_1280.png"
                                 alt="Left arrow"
                                 height={100}
                                 width={100}
@@ -53,8 +53,8 @@ export default function Home() {
            
         <a href="https://mark-alpha.vercel.app/">
             <Image
-                                src="/53-530045_black-arrow-3-icon-right-arrow-button.png"
-                                alt="Left arrow"
+                                src="/png-transparent-orange-right-arrow-button-arrow-next-button-angle-text-orange-thumbnail.png"
+                                alt="right arrow"
                                 height={100}
                                 width={100}
                                 priority
