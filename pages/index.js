@@ -16,7 +16,9 @@ export default function Home() {
 
 
       <main className={styles.main}>
-         <h2 className={styles.holy}>THE HOLY</h2>
+     
+      <div className={styles.hero}>
+            <h2 className={styles.holy}>THE HOLY</h2>
                 <h1 className={styles.bible}>
                     <a href="https://the-holy-bible.vercel.app/" target="_blank">BIBLE</a>
                 </h1>
@@ -24,7 +26,6 @@ export default function Home() {
         <h1 className={styles.title}>
          MATTHEW
         </h1>
-      <div className={styles.hero}>
         <div  className={styles.image}>
        <Image
                                 src="/istockphoto-1156403463-612x612.jpg"
