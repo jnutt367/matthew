@@ -341,7 +341,10 @@
     .image {
         padding: 0;
     }
+    .bible {
+    padding: 0;
+    }
     .title  {
-    font-size: ;
+    font-size: 48px;
     }
 }
