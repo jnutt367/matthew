@@ -9,16 +9,16 @@
   color: black;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
-  top: -18px;
-  left: -200px;
+  top: 2px;
+  left: -150px;
   font-size: 36px;
   padding-left: 5px;
   tex-align: left;
 }
 .bible {
   position: relative;
-  top: -70px;
-  left: -200px;
+  top: -50px;
+  left: -150px;
   margin-top: 0;
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
   text-shadow: #FC0 1px 0 10px;
