@@ -341,4 +341,10 @@
     .image {
         padding: 0;
     }
+    .holy {
+    left: -200px;
+    }
+    .bible { 
+    left: -200px;
+    }
 }
