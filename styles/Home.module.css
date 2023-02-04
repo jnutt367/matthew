@@ -120,7 +120,7 @@
   margin-top: 0;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   text-shadow: #FC0 1px 0 10px;
-  font-size: 36px;
+  font-size: 48px;
   margin-bottom: 1rem;
 }
 
@@ -341,10 +341,13 @@
     .image {
         padding: 0;
     }
+    .holy {
+        padding: 0;
+    }
     .bible {
     padding: 0;
     }
     .title  {
-    font-size: 48px;
+    font-size: 36px;
     }
 }
