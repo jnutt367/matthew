@@ -346,12 +346,12 @@
         padding: 0;
     }
     .holy {
-        display: inline;
+        display: block;
          padding: 0;
          text-align: left;
     }
     .bible {
-        display: inline;
+        display: block;
         padding: 0;
         text-align: left;
     }
