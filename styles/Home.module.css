@@ -9,7 +9,7 @@
   color: black;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
-   top: 12px;
+   top: 32px;
   font-size: 36px;
   display: grid;
   align-items: center;
@@ -24,7 +24,7 @@
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
   text-shadow: #ffa500 1px 0 10px;
   color: black;
-  font-size: 64px;
+  font-size: 84px;
   padding-left: 5px;
   display: grid;
   align-items: center;
@@ -346,13 +346,11 @@
         padding: 0;
     }
     .holy {
-         top: 50px;
          display: block;
          padding: 0;
          text-align: left;
     }
     .bible {
-        top: 50px;
         display: block;
         padding: 0;
         text-align: left;
