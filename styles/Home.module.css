@@ -346,10 +346,14 @@
         padding: 0;
     }
     .holy {
+        display: inline;
          padding: 0;
+         text-align: left;
     }
     .bible {
-         padding: 0;
+        display: inline;
+        padding: 0;
+        text-align: left;
     }
     .title  {
     font-size: 36px;
