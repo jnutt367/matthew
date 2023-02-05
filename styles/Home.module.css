@@ -9,7 +9,7 @@
   color: black;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
-   top: 52px;
+  top: 52px;
   font-size: 36px;
   display: grid;
   align-items: center;
@@ -349,7 +349,7 @@
          display: block;
          padding: 0;
          text-align: left;
-         top: -40px;
+         top: 0px;
     }
     .bible {
         display: block;
