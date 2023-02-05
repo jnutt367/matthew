@@ -349,11 +349,13 @@
          display: block;
          padding: 0;
          text-align: left;
+         top: -40px;
     }
     .bible {
         display: block;
         padding: 0;
         text-align: left;
+        top: -40px;
     }
     .title  {
     font-size: 36px;
