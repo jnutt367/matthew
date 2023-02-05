@@ -5,7 +5,7 @@
 }
 .holy {
   backgroud-color: silver;
-  text-shadow: #FC0 1px 0 10px;
+  text-shadow: #f2a71d 1px 0 10px;
   color: black;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
@@ -20,7 +20,7 @@
   top: -40px;
   margin-top: 0;
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
-  text-shadow: #FC0 1px 0 10px;
+  text-shadow: #f2a71d 1px 0 10px;
   color: black;
   font-size: 64px;
   padding-left: 5px;
@@ -119,7 +119,7 @@
   top: -50px;
   margin-top: 0;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
-  text-shadow: #FC0 1px 0 10px;
+  text-shadow: #f2a71d 1px 0 10px;
   font-size: 64px;
   margin-bottom: 1rem;
 }
