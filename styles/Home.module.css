@@ -343,11 +343,11 @@
     }
     .holy {
         padding: 0;
-         tex-align: left;
+         tex-align: center;
     }
     .bible {
     padding: 0;
-         tex-align: left;
+         tex-align: center;
     }
     .title  {
     font-size: 36px;
