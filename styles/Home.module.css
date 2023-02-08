@@ -180,6 +180,7 @@
 
 .nav {
     border: 3px solid black;
+    padding-top: 15px;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
