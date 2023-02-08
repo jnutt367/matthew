@@ -179,6 +179,7 @@
 }
 
 .nav {
+    border: 3px solid black;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
