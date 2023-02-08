@@ -229,11 +229,11 @@
 }
 
 .card {
-    background-image: url(/haga-clic-aquí-botón.webp);
+    background-image: url(/finger.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     color: transparent;
-    background-color: white;
+    background-color: orange;
     margin: 1.5rem;
     padding: 1.5rem;
     text-align: left;
