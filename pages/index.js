@@ -70,7 +70,7 @@ export default function Home() {
   
        
         <div className={styles.grid}>
-         <h2>Chapter I</h2>
+         
         <div className={styles.card}>
             <h2>Chapter 1 The Genealogy of Jesus the Messiah</h2>
             <p>
@@ -169,7 +169,7 @@ Joseph Accepts Jesus as His Son
 
 </p>
           </div>
-<h2>Chapter II</h2>
+
           <div className={styles.card}>
             <h2>Chapter 2 The Magi Visit the Messiah</h2>
             <p>
