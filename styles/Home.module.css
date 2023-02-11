@@ -250,7 +250,9 @@
     max-width: 400px;
     font-family: monospace;
 }
-
+.chapter {
+    colot: black;
+}
 .card:hover,
 .card:focus,
 .card:active {
