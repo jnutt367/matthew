@@ -72,7 +72,7 @@ export default function Home() {
         <div className={styles.grid}>
          
         <div className={styles.card}>
-            <h2>Chapter 1 The Genealogy of Jesus the Messiah</h2>
+            <h2  className={styles.chapter}>Matthew Chapter I</h2>
             <p>
 1 This is the genealogy[a] of Jesus the Messiah[b] the son of David, the son of Abraham:
 
