@@ -233,7 +233,7 @@
 
 .card {
     background-image: url(/depositphotos_211313724-stock-photo-read-icon-read-website-button.jpg);
-    background-size:cover;
+    background-size:contain;
     display: grid;
     place-items: center;
     background-repeat: no-repeat;
