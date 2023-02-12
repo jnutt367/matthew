@@ -256,6 +256,7 @@
     color: black;
     z-index: 1;
     text-align: center;
+    top: -10px;
 }
 .card:hover,
 .card:focus,
