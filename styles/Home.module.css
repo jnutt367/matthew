@@ -257,7 +257,7 @@
     position: relative; 
     z-index: 1;
     text-align: center;
-    top: -30px;
+    top: -25px;
 }
 .card:hover,
 .card:focus,
