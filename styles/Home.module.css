@@ -251,7 +251,8 @@
     font-family: monospace;
 }
 .chapter {
-    colot: black;
+    color: black;
+    z-index: 1;
 }
 .card:hover,
 .card:focus,
