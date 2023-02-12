@@ -253,6 +253,7 @@
 .chapter {
     color: black;
     z-index: 1;
+    text-align: center;
 }
 .card:hover,
 .card:focus,
