@@ -253,11 +253,12 @@
     font-family: monospace;
 }
 .chapter {
+    padding-top: 10px;
     color: black;
     position: relative; 
     z-index: 1;
     text-align: center;
-    top: -10px;
+    top: -20px;
 }
 .card:hover,
 .card:focus,
