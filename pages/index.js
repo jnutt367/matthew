@@ -171,7 +171,7 @@ Joseph Accepts Jesus as His Son
           </div>
 
           <div className={styles.card}>
-            <h2>Chapter 2 The Magi Visit the Messiah</h2>
+              <h2  className={styles.chapter}>Matthew Chapter II</h2>
             <p>
 2 After Jesus was born in Bethlehem in Judea, during the time of King Herod, Magi[a] from the east came to Jerusalem 2 and asked, “Where is the one who has been born king of the Jews? We saw his star when it rose and have come to worship him.”
 
@@ -210,7 +210,7 @@ The Return to Nazareth
           <div
             className={styles.card}
           >
-            <h2>Chapter 3 John the Baptist Prepares the Way &darr;</h2>
+             <h2  className={styles.chapter}>Matthew Chapter III</h2>
             <p>
 3 In those days John the Baptist came, preaching in the wilderness of Judea 2 and saying, “Repent, for the kingdom of heaven has come near.” 3 This is he who was spoken of through the prophet Isaiah:
 
@@ -235,7 +235,7 @@ The Baptism of Jesus
           <div
             className={styles.card}
           >
-            <h2>Chapter 4 Jesus Is Tested in the Wilderness </h2>
+             <h2  className={styles.chapter}>Matthew Chapter IV</h2>
             <p>
             
 4 Then Jesus was led by the Spirit into the wilderness to be tempted[a] by the devil. 2 After fasting forty days and forty nights, he was hungry. 3 The tempter came to him and said, “If you are the Son of God, tell these stones to become bread.”
@@ -283,7 +283,7 @@ Jesus Heals the Sick
           <div
             className={styles.card}
           >
-            <h2>Chapter 5 Introduction to the Sermon on the Mount &darr;</h2>
+           <h2  className={styles.chapter}>Matthew Chapter V</h2>
             <p>
             
 5 Now when Jesus saw the crowds, he went up on a mountainside and sat down. His disciples came to him, 2 and he began to teach them.
@@ -345,7 +345,7 @@ Love for Enemies
           <div
             className={styles.card}
           >
-            <h2>Chapter 6  Giving to the Needy</h2>
+           <h2  className={styles.chapter}>Matthew Chapter VI</h2>
             <p>
            
 6 “Be careful not to practice your righteousness in front of others to be seen by them. If you do, you will have no reward from your Father in heaven.
@@ -390,7 +390,7 @@ Do Not Worry
           <div
             className={styles.card}
           >
-            <h2>Chapter 7 Judging Others</h2>
+             <h2  className={styles.chapter}>Matthew Chapter VII</h2>
             <p>
             
 7 “Do not judge, or you too will be judged. 2 For in the same way you judge others, you will be judged, and with the measure you use, it will be measured to you.
@@ -422,8 +422,8 @@ The Wise and Foolish Builders
 
           <div
             className={styles.card}
-          >
-            <h2>Chapter 8 Jesus Heals a Man With Leprosy</h2>
+          > 
+           <h2  className={styles.chapter}>Matthew Chapter VIII</h2>
             <p>
             
 8 When Jesus came down from the mountainside, large crowds followed him. 2 A man with leprosy[a] came and knelt before him and said, “Lord, if you are willing, you can make me clean.”
@@ -477,7 +477,7 @@ Jesus Restores Two Demon-Possessed Men
           <div
             className={styles.card}
           >
-            <h2>Chapter 9 Jesus Forgives and Heals a Paralyzed Man</h2>
+  <h2  className={styles.chapter}>Matthew Chapter IX</h2>
             <p>
             
 9 Jesus stepped into a boat, crossed over and came to his own town. 2 Some men brought to him a paralyzed man, lying on a mat. When Jesus saw their faith, he said to the man, “Take heart, son; your sins are forgiven.”
@@ -532,7 +532,7 @@ The Workers Are Few
           <div
             className={styles.card}
           >
-            <h2>Chapter 10 Jesus Sends Out the Twelve</h2>
+             <h2  className={styles.chapter}>Matthew Chapter X</h2>
             <p>
             
 10 Jesus called his twelve disciples to him and gave them authority to drive out impure spirits and to heal every disease and sickness.
@@ -569,7 +569,7 @@ a daughter-in-law against her mother-in-law—
           <div
             className={styles.card}
           >
-            <h2>Chapter 11 Jesus and John the Baptist</h2>
+             <h2  className={styles.chapter}>Matthew Chapter XI</h2>
             <p>
             
 11 After Jesus had finished instructing his twelve disciples, he went on from there to teach and preach in the towns of Galilee.[a]
