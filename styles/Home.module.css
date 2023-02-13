@@ -122,14 +122,14 @@
   color: white;
   position: sticky; 
   background-color: black;
-  opacity: 0.8;
+  opacity: 0.5;
   padding-top: 20px;
   padding-bottom: 20px;
   z-index: 1;
   top: 0px;
   margin-top: 0;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
-  text-shadow: #ffa500 1px 0 10px;
+  text-shadow: #ffa500 2px 0 15px;
   font-size: 64px;
 }
 
