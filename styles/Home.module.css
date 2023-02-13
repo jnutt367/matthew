@@ -64,6 +64,9 @@
   position:relative;
   top: -105px;
 }
+.arrow {
+    border-radius: 50%;
+}
 .footer a {
     display: flex;
     justify-content: center;
