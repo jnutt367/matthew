@@ -122,7 +122,7 @@
   color: black;
   position: sticky; 
   z-index: 1;
-  top: -50px;
+  top: 50px;
   margin-top: 0;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   text-shadow: #ffa500 1px 0 10px;
