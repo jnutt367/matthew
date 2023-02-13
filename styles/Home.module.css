@@ -45,8 +45,6 @@
     align-items: center;
 }
 .image {
-    position: sticky; 
-    z-index: 1;
     padding-left: 100px;
     padding-right: 100px;
     display: grid;
@@ -122,7 +120,8 @@
 
 .title {
   color: black;
-  position: relative;
+  position: sticky; 
+  z-index: 1;
   top: -50px;
   margin-top: 0;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
