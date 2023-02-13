@@ -122,7 +122,9 @@
   color: black;
   position: sticky; 
   background-color: black;
-  opacity: 0.8;  
+  opacity: 0.8;
+  padding-top: 20px;
+  padding-bottom: 20px;
   z-index: 1;
   top: 10px;
   margin-top: 0;
