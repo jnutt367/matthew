@@ -184,7 +184,7 @@
 }
 
 .nav {
-    position: sticky;
+    position: absolute;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
