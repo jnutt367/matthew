@@ -187,7 +187,7 @@
 }
 
 .nav {
-    background-color: black;
+    background-color: #ffa500;
     opacity: 0.175;
     display: flex;
     flex-direction: row;
