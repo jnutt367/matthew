@@ -188,7 +188,7 @@
 
 .nav {
     background-color: black;
-    opacity: 0.1;
+    opacity: 0.4;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
