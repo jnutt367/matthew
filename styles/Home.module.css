@@ -188,7 +188,7 @@
 
 .nav {
     background-color: #ffa500;
-    opacity: 0.175;
+    opacity: 0.5;
     padding: 5px;
     display: flex;
     flex-direction: row;
