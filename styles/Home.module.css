@@ -125,12 +125,12 @@
   color: white;
   position: sticky; 
   background-color: black;
-  opacity: 0.8;
+  opacity: 0.95;
   padding-top: 20px;
   padding-bottom: 20px;
   z-index: 1;
-  top: -120px;
-  margin-top: 0;
+  top: -20px;
+  margin-top: -50px;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   font-size: 64px;
 }
