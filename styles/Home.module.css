@@ -269,6 +269,12 @@
     padding-bottom: 10px;
     font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
 }
+.chapter:hover,
+.chapter:focus,
+.chapter:active {
+    background-color: white;
+    opacity: 0.75;
+}
 .card:hover,
 .card:focus,
 .card:active {
