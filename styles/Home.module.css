@@ -6,7 +6,6 @@
 }
 .holy {
   backgroud-color: silver;
-  text-shadow: #ffa500 1px 0 10px;
   color: white;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
@@ -23,7 +22,6 @@
   top: -0px;
   margin-top: 0;
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
-  text-shadow: #ffa500 1px 0 10px;
   color: white;
   font-size: 64px;
   padding-left: 5px;
@@ -129,10 +127,9 @@
   padding-top: 20px;
   padding-bottom: 20px;
   z-index: 1;
-  top: 0px;
+  top: -20px;
   margin-top: 0;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
-  text-shadow: #ffa500 4px 10px 25px;
   font-size: 64px;
 }
 
@@ -143,7 +140,6 @@
   top: 10px;
   margin-top: 0;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
-  text-shadow: #FC0 1px 0 10px;
   font-size: 14px;
   margin-bottom: 0.5rem;
 }
@@ -219,7 +215,6 @@
     background-image: none;
     opacity: 0.9;
     background-size: cover;
-    text-shadow: 1px 1px white;
     margin-top: 0rem;
     padding: 2rem;
     text-align: left;
@@ -265,7 +260,7 @@
     position: sticky; 
     z-index: 1;
     text-align: center;
-    top: -30px;
+    top: -40px;
     margin-top: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -276,13 +271,13 @@
 .card:active {
     display: inline;
     color: black;
+    opacity: 0.5;
     border-color: hsl(212, 100%, 48%);
     background-image: url(/closeup-old-paper-texture-age-marks.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     cursor: all-scroll;
     background-color: white;
-    opacity: 0.9;
     overflow: scroll;
     font-family: monospace;
 }
@@ -294,7 +289,6 @@
 }
 
 .card h2:hover {
-    text-shadow: 1px 1px white;
     color: black;
 }
 
@@ -306,7 +300,6 @@
 }
 
 .card p:hover {
-    text-shadow: 1px 1px white;
     font-weight: 900;
 }
 
