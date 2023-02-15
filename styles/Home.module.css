@@ -64,6 +64,8 @@
 }
 .arrow {
     border-radius: 50%;
+    height: 50px;
+    width: 50px;
 }
 .footer a {
     display: flex;
@@ -250,7 +252,6 @@
     overflow: scroll;
     text-decoration: none;
     border: 3px solid #eaeaea;
-    border-radius: 10px;
     transition: color 0.15s ease, border-color 2s ease;
     max-width: 400px;
     font-family: monospace;
@@ -260,7 +261,7 @@
     position: sticky; 
     z-index: 1;
     text-align: center;
-    top: -40px;
+    top: -60px;
     margin-top: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -272,7 +273,7 @@
     display: inline;
     color: black;
     opacity: 0.5;
-    border-color: hsl(212, 100%, 48%);
+    border-color:  #ffa500;
     background-image: url(/closeup-old-paper-texture-age-marks.jpg);
     background-repeat: no-repeat;
     background-size: cover;
