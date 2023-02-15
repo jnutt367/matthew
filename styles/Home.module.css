@@ -262,10 +262,11 @@
     color: black;
     position: sticky; 
     z-index: 1;
+    width: 100%;
     text-align: center;
     top: -10px;
     margin-top: 5px;
-    padding-top: 5px;
+    padding-top: 25px;
     padding-bottom: 10px;
     font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
 }
