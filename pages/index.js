@@ -37,11 +37,11 @@ export default function Home() {
         </div>                      
            <div className={styles.nav}>               
        <a href="https://the-holy-bible.vercel.app/">
-            <Image className={styles.arrow}
+           <Image className={styles.arrow}
                                 src="/109520-200.png"
                                 alt="Left arrow"
-                                height={50}
-                                width={50}
+                                height={75}
+                                width={75}
                                 priority
                               />
        </a>
@@ -50,19 +50,20 @@ export default function Home() {
            <Image
                                 src="/SCROLL-DOWN-button-kopie1.gif"
                                 alt="Donate Button"
-                                height={50}
-                                width={50}
+                                height={75}
+                                width={75}
                                 priority
                               />
           
         </a> 
            
+           
         <a href="https://mark-alpha.vercel.app/">
-            <Image className={styles.arrow}
+             <Image className={styles.arrow}
                                 src="/109520-200.png"
                                 alt="right arrow"
-                                height={50}
-                                width={50}
+                                 height={75}
+                                width={75}
                                 priority
                               />
        </a>           
