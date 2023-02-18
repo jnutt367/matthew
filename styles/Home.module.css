@@ -242,6 +242,7 @@
     background-image: url(/52617427-bible-church-logo-the-name-of-the-mission-bible-society-.webp);
     background-size:contain;
     display: grid;
+    background-color: white;
     place-items: center;
     background-repeat: no-repeat;
     color: transparent;
