@@ -255,7 +255,7 @@
     text-decoration: none;
     border: 3px solid #eaeaea;
     transition: color 0.15s ease, border-color 2s ease;
-    max-width: 400px;
+    max-width: 365px;
     font-family: monospace;
 }
 .chapter {
@@ -266,7 +266,7 @@
     text-align: center;
     top: -10px;
     margin-top: 5px;
-    padding-top: 25px;
+    padding-top: 10px;
     padding-bottom: 10px;
     font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
 }
