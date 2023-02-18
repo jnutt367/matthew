@@ -280,9 +280,9 @@
 .card:active {
     display: inline;
     color: black;
-    opacity: 0.5;
+    opacity: 0.9;
     border-color:  #ffa500;
-    background-image: url(/closeup-old-paper-texture-age-marks.jpg);
+    background-image: url(/paper.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     cursor: all-scroll;
