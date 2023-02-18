@@ -265,16 +265,15 @@
     width: 100%;
     text-align: center;
     top: 0px;
-    margin-top: 5px;
-    padding-top: 10px;
+    margin-top: 0px;
+    padding-top: 5px;
     padding-bottom: 10px;
     font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
 }
 .chapter:hover,
 .chapter:focus,
 .chapter:active {
-    background-color: white;
-    opacity: 0.75;
+    font-weight: bolder;
 }
 .card:hover,
 .card:focus,
