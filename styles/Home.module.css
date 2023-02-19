@@ -10,7 +10,7 @@
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
   z-index:10;
-  top: 0px;
+  top: 12px;
   font-size: 36px;
   display: grid;
   align-items: center;
@@ -20,7 +20,7 @@
 }
 .bible {
  position: relative;
-  top: -0px;
+  top: -12px;
   z-index: 10;
   margin-top: 0;
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
