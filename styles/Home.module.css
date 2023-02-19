@@ -264,10 +264,10 @@
     opacity: 0.8;
     position: sticky; 
     z-index: 1;
-    width: auto-fit;
+    width: 350px;
     text-align: center;
     top: 0px;
-    margin-top: 0px;
+    margin-top: -15px0px;
     padding-top: 25px;
     padding-right: 40px;
     padding-left: 40px;
