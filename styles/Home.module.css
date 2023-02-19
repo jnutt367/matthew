@@ -264,10 +264,10 @@
     opacity: 0.95;
     position: sticky; 
     z-index: 1;
-    width: 350px;
+    width: 100%;
     text-align: center;
     top: 0px;
-    margin-top: -15px;
+    margin-top: -35px;
     padding-top: 25px;
     padding-bottom: 5px;
     font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
