@@ -20,7 +20,7 @@
 }
 .bible {
  position: relative;
-  top: -27px;
+  top: -37px;
   z-index: 10;
   margin-top: 0;
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
@@ -131,7 +131,7 @@
   opacity: 0.95;
   padding-top: 40px;
   z-index: 2;
-  top: -20px;
+  top: -40px;
   margin-top: -90px;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   font-size: 64px;
