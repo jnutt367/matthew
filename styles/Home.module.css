@@ -259,6 +259,7 @@
     font-family: monospace;
 }
 .chapter {
+    background-color: #ED7014;
     color: black;
     position: sticky; 
     z-index: 1;
@@ -266,8 +267,8 @@
     text-align: center;
     top: 0px;
     margin-top: 0px;
-    padding-top: 5px;
-    padding-bottom: 10px;
+    padding-top: 25px;
+    padding-bottom: 5px;
     font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
 }
 .chapter:hover,
