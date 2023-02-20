@@ -157,6 +157,7 @@
 
 .description {
     text-shadow: 1px 1px black;
+    color:white;
     padding: 2rem;
     padding-right: 3rem;
     margin: 0rem 0;
@@ -333,7 +334,7 @@
 
 .publisher {
     font-family: Arial, Verdana, Tahoma, Trebuchet MS, Times New Roman, Georgia, Garamond, Courier New, Brush Script MT; 
-    color: flex;
+    color: white;
     margin-left: 2rem;
 }
 
