@@ -263,7 +263,7 @@
 }
 .chapter {
     background-color: #ED7014;
-    color: black;
+    color: white;
     opacity: 0.6;
     position: sticky; 
     z-index: 1;
@@ -279,6 +279,8 @@
 .chapter:focus,
 .chapter:active {
     font-weight: bolder;
+    color: black;
+    opacity: 1;
 }
 .card:hover,
 .card:focus,
