@@ -264,8 +264,8 @@
 .chapter {
     background-color: #ED7014;
     color: black;
-    opacity: 0.5;
-    position: sticky; 
+    opacity: 1;
+    position: sticky;
     z-index: 1;
     width: 100%;
     text-align: center;
