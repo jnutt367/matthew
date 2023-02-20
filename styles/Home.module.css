@@ -244,7 +244,6 @@
     background-image: url(/white-cross-on-black-background.png);
     background-size:contain;
     display: grid;
-    background-color: white;
     place-items: center;
     background-repeat: no-repeat;
     color: transparent;
@@ -252,7 +251,7 @@
     margin-bottom: 5rem;
     padding: 0rem;
     text-align: left;
-    max-height: 400px;
+    max-height: 350px;
     max-width: 400px;
     background-color: black;
     overflow: scroll;
@@ -287,7 +286,7 @@
     display: inline;
     color: black;
     opacity: 1;
-    border-color:  #ffa500;
+    border: 3px solid #ffa500;
     background-image: url(/paper.jpg);
     background-repeat: no-repeat;
     background-size: cover;
