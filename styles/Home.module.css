@@ -253,7 +253,7 @@
     padding: 0rem;
     text-align: left;
     max-height: 250px;
-    max-width: 500px;
+    max-width: 100%;
     background-color: black;
     overflow: scroll;
     text-decoration: none;
