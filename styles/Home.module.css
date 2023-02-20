@@ -242,7 +242,7 @@
 
 .card {
     background-image: url(/christian_wallpaper.jpeg);
-    background-size:contain;
+    background-size:cover;
     display: grid;
     background-color: white;
     place-items: center;
@@ -251,7 +251,6 @@
     margin: 1.5rem;
     margin-bottom: 5rem;
     padding: 0rem;
-    padding-top: 5rem;
     text-align: left;
     background-color: black;
     max-height: 365px;
