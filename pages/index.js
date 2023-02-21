@@ -38,7 +38,7 @@ export default function Home() {
            <div className={styles.nav}>               
        <a href="https://the-holy-bible.vercel.app/">
            <Image className={styles.arrow}
-                                src="/109520-200.png"
+                                src="/chevron-left.svg"
                                 alt="Left arrow"
                                 height={75}
                                 width={75}
@@ -60,7 +60,7 @@ export default function Home() {
            
         <a href="https://mark-alpha.vercel.app/">
              <Image className={styles.arrow}
-                                src="/109520-200.png"
+                                src="/chevron-right.svg"
                                 alt="right arrow"
                                  height={75}
                                 width={75}
