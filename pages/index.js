@@ -47,9 +47,7 @@ export default function Home() {
        </a>
 
          <a href="#PayPalButton">
-           <p>
-           SCROLL DOWN
-           </p>
+          
            <Image
                                 src="/chevron-down.svg"
                                 alt="Donate Button"
