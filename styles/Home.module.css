@@ -5,6 +5,18 @@
     position: relative;
 }
 */
+.container {
+  background-color: black;
+  width: 100%;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  position: relative;
+}
+
+
+
 .holy {
   backgroud-color: silver;
   color: white;
@@ -47,23 +59,16 @@
     align-items: center;
 }
 */
-.container {
-  background-color: black;
-  width: 100%;
-  display: grid;
-  align-items: center;
-  justify-content: center;
-  text-align: left;
-  position: relative;
-}
-
 .main {
   background-color:  black;
+  min-height: 100vh;  
+  padding: 4rem 0;  
   max-width: 900px;
   background-size: cover;
   position:relative;
   top: 10px;
 }
+
 
 .image {
     margin-top: -50px;
