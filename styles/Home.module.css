@@ -37,6 +37,7 @@
 .main {
     background-color: black;
     min-height: 100vh;
+    max-width: 900px;
     padding: 4rem 0;
     flex: 1;
     display: flex;
