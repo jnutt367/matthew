@@ -393,9 +393,11 @@
     
     .container {
         background-image: url(/jesus-christ-crucifix-mountain-where-jesus-was-crucified-sun-shines-down-christian_73749-944.webp) ;
+        background-size: cover;
+        background-repeat: no-repeat;
     }
     .main {
-        background-color: white;   
+        background-color: transparent;
     }
 }
    
