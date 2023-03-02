@@ -392,7 +392,7 @@
     }
     
     .container {
-        RGB(#D7816A, #BD4F6C, 0);
+        rgb(#D7816A, #BD4F6C, 0);
         background-size: cover;
         background-repeat: no-repeat;
     }
