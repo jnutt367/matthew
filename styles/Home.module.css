@@ -94,8 +94,8 @@
 }
 .arrow {
     border-radius: 50%;
-    height: 10px;
-    width: 10px;
+    height: 25px;
+    width: 25px;
 }
 .footer a {
     display: flex;
@@ -218,7 +218,7 @@
 .nav {
     background-color: #ED7014;
     opacity: 1;
-    padding: 2px;
+    padding: 5px;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -387,15 +387,11 @@
 
 @media (min-width: 1080px) {
          .image {
-        padding-left: 200px;
-        padding-right: 200px;     
+        padding-left: 150px;
+        padding-right: 150px;     
     }
     
-    .container {
-        background-color: rgb(204, 85, 0);
-        background-size: cover;
-        background-repeat: no-repeat;
-    }
+    
     .main {
         background-color: transparent;
     }
