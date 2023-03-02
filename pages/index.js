@@ -40,8 +40,8 @@ export default function Home() {
            <Image className={styles.arrow}
                                 src="/chevron-left.svg"
                                 alt="Left arrow"
-                                height={75}
-                                width={75}
+                                height={25}
+                                width={25}
                                 priority
                               />
        </a>
@@ -51,8 +51,8 @@ export default function Home() {
            <Image
                                 src="/chevron-down.svg"
                                 alt="Donate Button"
-                                height={75}
-                                width={75}
+                                height={25}
+                                width={25}
                                 priority
                               />
           
@@ -63,8 +63,8 @@ export default function Home() {
              <Image className={styles.arrow}
                                 src="/chevron-right.svg"
                                 alt="right arrow"
-                                 height={75}
-                                width={75}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>           
