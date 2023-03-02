@@ -392,7 +392,7 @@
     }
     
     .container {
-        background-color: rgb(255, 98, 0);
+        RGB: (255, 98, 0);
         background-size: cover;
         background-repeat: no-repeat;
     }
