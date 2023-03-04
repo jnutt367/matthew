@@ -1587,14 +1587,16 @@ The Great Commission
   
         </div>
 </div>
-
-  <Image
+  <div  className={styles.image}>
+       <Image
                                 src="/istockphoto-1165307675-612x612.jpg"
-                                alt="Jesus carries his cross"
+                                alt="Jesus feeds the 5000"
                                 height={900}
                                 width={2000}
                                 priority
                               />
+        </div>             
+ 
         <p className={styles.description}>
           
           <code className={styles.publisher}>Coded, Published & Deployed by His servant: Jason Daniel Nutt </code>
