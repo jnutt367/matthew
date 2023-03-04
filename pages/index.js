@@ -1582,6 +1582,12 @@ The Great Commission
 16 Then the eleven disciples went to Galilee, to the mountain where Jesus had told them to go. 17 When they saw him, they worshiped him; but some doubted. 18 Then Jesus came to them and said, “All authority in heaven and on earth has been given to me. 19 Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, 20 and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.”
             </p>
           </div>
+
+        </div>            
+  
+        </div>
+</div>
+
   <Image
                                 src="/istockphoto-1165307675-612x612.jpg"
                                 alt="Jesus carries his cross"
@@ -1589,10 +1595,6 @@ The Great Commission
                                 width={2000}
                                 priority
                               />
-        </div>            
-  
-        </div>
-</div>
         <p className={styles.description}>
           
           <code className={styles.publisher}>Coded, Published & Deployed by His servant: Jason Daniel Nutt </code>
