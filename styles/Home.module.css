@@ -73,7 +73,7 @@
 
 .image {
     background-image: url(/istockphoto-1300398224-612x612.jpg);
-    basckground-repeat: no-repeat;
+    background-repeat: no-repeat;
     padding-left: 100px;
     padding-right: 100px;
     display: grid;
