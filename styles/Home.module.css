@@ -273,6 +273,8 @@
 .card {
     background-image: url(/cross-hands-god-jesus-religion-faith-pray-prayer-christian.jpg);
     background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
     background-position-x: center;
     background-position-y: center;
     background-origin: content-box;
