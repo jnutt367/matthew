@@ -73,15 +73,14 @@
 
 .image {
     background-image: url(/istockphoto-1300398224-612x612.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+    margin-top: -50px;
     padding-left: 100px;
     padding-right: 100px;
     display: grid;
     place-items: center;
-    max-height: 350px; 
-    margin-bottom: 1.5rem;
-    margin-top: -10px;
+    max-height: 700px; 
+   border: 50px 0 10px solid #ED7014;
+    opacity: 1;
 }
 .footer {
     display: flex;
