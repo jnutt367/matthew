@@ -1597,7 +1597,7 @@ The Great Commission
        <Image
                                 src="/istockphoto-1165307675-612x612.jpg"
                                 alt="Jesus carries the cross"
-                                height={300}
+                                height={100}
                                 width={1000}
                                 priority
                               />
