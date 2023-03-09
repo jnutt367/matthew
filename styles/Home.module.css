@@ -82,6 +82,10 @@
    border: 50px 0 10px solid #ED7014;
     opacity: 1;
 }
+.fund {
+    color: white;
+    font-family: cursive, Fantasy;
+}
 .footer {
     display: flex;
     flex: 1;
