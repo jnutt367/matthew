@@ -70,7 +70,9 @@ export default function Home() {
        </a>           
         </div>
   
-       
+         <a href="https://gofund.me/a2b590af" target="_blank">  
+                          <p className={styles.fund}>Help Fund This Bible</p>  
+                      </a>
         <div className={styles.grid}>
          
         <div className={styles.card}>
