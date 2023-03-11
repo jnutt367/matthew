@@ -83,9 +83,16 @@
     opacity: 1;
 }
 .fund {
-    text-align: center;
+   text-align: center;
     color: white;
-    font-family: cursive, Fantasy;
+    position: relative;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-top: 25px;
+    top: -115px;
+    font-family:"Times New Roman", Times, serif;
+    font-weight: 900;
+}
 }
 .footer {
     display: flex;
