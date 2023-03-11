@@ -7,7 +7,6 @@
 */
 .container {
   background-color: black;
-  background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
   width: 100%;
   display: grid;
   align-items: center;
@@ -20,7 +19,6 @@
 
 .holy {
   backgroud-color: silver;
-  background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
   color: white;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
@@ -163,9 +161,7 @@
 .title {
   color: white;
   background-color: black;  
-  background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
   position: sticky; 
- 
   opacity: 0.95;
   padding-top: 40px;
   z-index: 2;
