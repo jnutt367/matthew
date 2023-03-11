@@ -162,8 +162,10 @@
 
 .title {
   color: white;
+  background-color: black;  
+  background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
   position: sticky; 
-  background-color: black;
+ 
   opacity: 0.95;
   padding-top: 40px;
   z-index: 2;
