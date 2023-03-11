@@ -70,7 +70,7 @@ export default function Home() {
        </a>           
         </div>
   
-         
+         <p className={styles.fund}>“The virgin will conceive and give birth to a son, and they will call him Immanuel”</p>
         <div className={styles.grid}>
          
         <div className={styles.card}>
