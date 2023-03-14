@@ -76,7 +76,7 @@ export default function Home() {
         <div className={styles.card}>
             <h2  className={styles.chapter}>Matthew Chapter I</h2>
             <p>
-1 This is the genealogy[a] of Jesus the Messiah[b] the son of David, the son of Abraham:
+1 This is the genealogy of Jesus the Messiah, the son of David, the son of Abraham:
 
 2 Abraham was the father of Isaac,
 
@@ -130,7 +130,7 @@ Manasseh the father of Amon,
 
 Amon the father of Josiah,
 
-11 and Josiah the father of Jeconiah[c] and his brothers at the time of the exile to Babylon.
+11 and Josiah the father of Jeconiah and his brothers at the time of the exile to Babylon.
 
 12 After the exile to Babylon:
 
@@ -161,11 +161,11 @@ Matthan the father of Jacob,
 17 Thus there were fourteen generations in all from Abraham to David, fourteen from David to the exile to Babylon, and fourteen from the exile to the Messiah.
 
 Joseph Accepts Jesus as His Son
-18 This is how the birth of Jesus the Messiah came about[d]: His mother Mary was pledged to be married to Joseph, but before they came together, she was found to be pregnant through the Holy Spirit. 19 Because Joseph her husband was faithful to the law, and yet[e] did not want to expose her to public disgrace, he had in mind to divorce her quietly.
+18 This is how the birth of Jesus the Messiah came about: His mother Mary was pledged to be married to Joseph, but before they came together, she was found to be pregnant through the Holy Spirit. 19 Because Joseph her husband was faithful to the law, and yet did not want to expose her to public disgrace, he had in mind to divorce her quietly.
 
-20 But after he had considered this, an angel of the Lord appeared to him in a dream and said, “Joseph son of David, do not be afraid to take Mary home as your wife, because what is conceived in her is from the Holy Spirit. 21 She will give birth to a son, and you are to give him the name Jesus,[f] because he will save his people from their sins.”
+20 But after he had considered this, an angel of the Lord appeared to him in a dream and said, “Joseph son of David, do not be afraid to take Mary home as your wife, because what is conceived in her is from the Holy Spirit. 21 She will give birth to a son, and you are to give him the name Jesus, because he will save his people from their sins.”
 
-22 All this took place to fulfill what the Lord had said through the prophet: 23 “The virgin will conceive and give birth to a son, and they will call him Immanuel”[g] (which means “God with us”).
+22 All this took place to fulfill what the Lord had said through the prophet: 23 “The virgin will conceive and give birth to a son, and they will call him Immanuel” (which means “God with us”).
 
 24 When Joseph woke up, he did what the angel of the Lord had commanded him and took Mary home as his wife. 25 But he did not consummate their marriage until she gave birth to a son. And he gave him the name Jesus.
 
@@ -175,14 +175,14 @@ Joseph Accepts Jesus as His Son
           <div className={styles.card}>
               <h2  className={styles.chapter}>Matthew Chapter II</h2>
             <p>
-2 After Jesus was born in Bethlehem in Judea, during the time of King Herod, Magi[a] from the east came to Jerusalem 2 and asked, “Where is the one who has been born king of the Jews? We saw his star when it rose and have come to worship him.”
+2 After Jesus was born in Bethlehem in Judea, during the time of King Herod, Magi from the east came to Jerusalem 2 and asked, “Where is the one who has been born king of the Jews? We saw his star when it rose and have come to worship him.”
 
 3 When King Herod heard this he was disturbed, and all Jerusalem with him. 4 When he had called together all the people’s chief priests and teachers of the law, he asked them where the Messiah was to be born. 5 “In Bethlehem in Judea,” they replied, “for this is what the prophet has written:
 
 6 “‘But you, Bethlehem, in the land of Judah,
     are by no means least among the rulers of Judah;
 for out of you will come a ruler
-    who will shepherd my people Israel.’[b]”
+    who will shepherd my people Israel.’”
 
 7 Then Herod called the Magi secretly and found out from them the exact time the star had appeared. 8 He sent them to Bethlehem and said, “Go and search carefully for the child. As soon as you find him, report to me, so that I too may go and worship him.”
 
@@ -191,7 +191,7 @@ for out of you will come a ruler
 The Escape to Egypt
 13 When they had gone, an angel of the Lord appeared to Joseph in a dream. “Get up,” he said, “take the child and his mother and escape to Egypt. Stay there until I tell you, for Herod is going to search for the child to kill him.”
 
-14 So he got up, took the child and his mother during the night and left for Egypt, 15 where he stayed until the death of Herod. And so was fulfilled what the Lord had said through the prophet: “Out of Egypt I called my son.”[c]
+14 So he got up, took the child and his mother during the night and left for Egypt, 15 where he stayed until the death of Herod. And so was fulfilled what the Lord had said through the prophet: “Out of Egypt I called my son.”
 
 16 When Herod realized that he had been outwitted by the Magi, he was furious, and he gave orders to kill all the boys in Bethlehem and its vicinity who were two years old and under, in accordance with the time he had learned from the Magi. 17 Then what was said through the prophet Jeremiah was fulfilled:
 
@@ -199,7 +199,7 @@ The Escape to Egypt
     weeping and great mourning,
 Rachel weeping for her children
     and refusing to be comforted,
-    because they are no more.”[d]
+    because they are no more.”
 
 The Return to Nazareth
 19 After Herod died, an angel of the Lord appeared in a dream to Joseph in Egypt 20 and said, “Get up, take the child and his mother and go to the land of Israel, for those who were trying to take the child’s life are dead.”
