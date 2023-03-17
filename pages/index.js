@@ -28,8 +28,8 @@ export default function Home() {
         </h1>
         <div  className={styles.image}>
        <Image
-                                src="/istockphoto-1156403463-612x612.jpg"
-                                alt="Jesus feeds the 5000"
+                                src="/jesus-christ-animated.gif"
+                                alt="Jesus Knocking gif"
                                 height={900}
                                 width={2000}
                                 priority
