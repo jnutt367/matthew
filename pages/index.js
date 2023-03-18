@@ -70,7 +70,7 @@ export default function Home() {
        </a>           
         </div>
   
-         <p className={styles.fund}>(Matthew 7:7) "Ask and it will be given to you; seek and you will find; knock and the door will be opened to you." </p>
+         <p className={styles.fund}>(Matthew 5:3) "Blessed are the poor in spirit, for theirs is the kingdom of heaven." </p>
         <div className={styles.grid}>
          
         <div className={styles.card}>
