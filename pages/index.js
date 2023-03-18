@@ -28,7 +28,7 @@ export default function Home() {
         </h1>
         <div  className={styles.image}>
        <Image
-                                src="/kneeling.webp"
+                                src="/knocking.jpg"
                                 alt="Jesus Knocking gif"
                                 height={900}
                                 width={2000}
