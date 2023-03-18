@@ -311,7 +311,7 @@
 }
 .chapter {
     background-color: #89CFF0;
-    color: white;
+    color: black;
     opacity: 1;
     position: sticky;
     z-index: 1;
