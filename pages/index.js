@@ -28,7 +28,7 @@ export default function Home() {
         </h1>
         <div  className={styles.image}>
        <Image
-                                src="/knocking.jpg"
+                                src="/istockphoto-1156403463-612x612.jpg"
                                 alt="Jesus Knocking gif"
                                 height={900}
                                 width={2000}
