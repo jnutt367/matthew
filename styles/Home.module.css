@@ -73,7 +73,8 @@
 
 .image {
     background-image: url(/pngtree-beautiful-blue-sky-background-with-tiny-clouds-picture-image_1235044.jpg);
-     margin-top: -50px;
+    opacity: 0.5;
+    margin-top: -50px;
     padding-left: 100px;
     padding-right: 100px;
     display: grid;
