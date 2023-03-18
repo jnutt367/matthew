@@ -72,7 +72,7 @@
 
 
 .image {
-    background-image: url(/istockphoto-1300398224-612x612.jpg);
+    background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
     opacity: 0.5;
     margin-top: -50px;
     padding-left: 100px;
@@ -80,7 +80,7 @@
     display: grid;
     place-items: center;
     max-height: 700px; 
-    border: 50px 0 10px solid #ED7014;
+    border: 50px 0 10px solid  #89CFF0;
     opacity: 1;
 }
 .fund {
@@ -230,7 +230,7 @@
 }
 
 .nav {
-    background-color: #ED7014;
+    background-color:  #89CFF0;
     opacity: 1;
     padding: 5px;
     display: flex;
@@ -310,8 +310,8 @@
     font-family: monospace;
 }
 .chapter {
-    background-color: #ED7014;
-    color: black;
+    background-color: #89CFF0;
+    color: white;
     opacity: 1;
     position: sticky;
     z-index: 1;
