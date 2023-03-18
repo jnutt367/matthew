@@ -28,7 +28,7 @@ export default function Home() {
         </h1>
         <div  className={styles.image}>
        <Image
-                                src="/istockphoto-1156403463-612x612.jpg"
+                                src="/gabriel.jpg"
                                 alt="Jesus Knocking gif"
                                 height={900}
                                 width={2000}
@@ -70,7 +70,7 @@ export default function Home() {
        </a>           
         </div>
   
-         <p className={styles.fund}>(Matthew 5:3) "Blessed are the poor in spirit, for theirs is the kingdom of heaven." </p>
+         <p className={styles.fund}>(Matthew 1:20-21)  "what is conceived in her is from the Holy Spirit. She will give birth to a son, and you are to give him the name Jesus, because he will save his people from their sins.” </p>
         <div className={styles.grid}>
          
         <div className={styles.card}>
