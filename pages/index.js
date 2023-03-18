@@ -70,7 +70,7 @@ export default function Home() {
        </a>           
         </div>
   
-         <p className={styles.fund}>(Matthew 1:20-21)  "what is conceived in her is from the Holy Spirit. She will give birth to a son, and you are to give him the name Jesus, because he will save his people from their sins.” </p>
+         <p className={styles.fund}>(Matthew 1:20)  "what is conceived in her is from the Holy Spirit. She will give birth to a son, and you are to give him the name Jesus” </p>
         <div className={styles.grid}>
          
         <div className={styles.card}>
