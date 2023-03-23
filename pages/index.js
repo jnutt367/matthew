@@ -28,8 +28,8 @@ export default function Home() {
         </h1>
         <div  className={styles.image}>
        <Image
-                                src="/joseph.webp"
-                                alt="Jesus Knocking gif"
+                                src="/baby-jesus-christmas.gif"
+                                alt="Jesus birth gif"
                                 height={900}
                                 width={2000}
                                 priority
