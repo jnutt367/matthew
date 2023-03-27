@@ -19,7 +19,7 @@ export default function Home() {
      
       <div className={styles.hero}>
         
-       <Image
+       <Image className={styles.workshop}
                                 src="/workshop.png"
                                 alt="Jesus birth gif"
                                 height={75}
