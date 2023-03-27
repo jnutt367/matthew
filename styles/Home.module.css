@@ -21,6 +21,8 @@
     border-radius: 50%; 
     top: 20px;
     left: 200px;
+    margin: 0;
+    padding: 0;
 }
 .holy {
   backgroud-color: silver;
@@ -28,7 +30,7 @@
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
   z-index:10;
-  top: -212px;
+  top: -12px;
   font-size: 36px;
   display: grid;
   align-items: center;
@@ -38,7 +40,7 @@
 }
 .bible {
  position: relative;
-  top: -237px;
+  top: -37px;
   z-index: 10;
   margin-top: 0;
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
@@ -177,7 +179,7 @@
   opacity: 0.95;
   padding-top: 40px;
   z-index: 2;
-  top: -230px;
+  top: -30px;
   margin-top: -135px;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   font-size: 64px;
