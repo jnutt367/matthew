@@ -17,7 +17,10 @@
 
 
 .workshop {
+    position: relative;
     float: right;
+    border-radius: 50%; 
+    top: 100px;
 }
 .holy {
   backgroud-color: silver;
