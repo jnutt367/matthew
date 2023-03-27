@@ -16,7 +16,9 @@
 }
 
 
-
+.workshop {
+    float: right;
+}
 .holy {
   backgroud-color: silver;
   color: white;
