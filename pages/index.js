@@ -24,6 +24,7 @@ export default function Home() {
                                 alt="Jesus birth gif"
                                 height={75}
                                 width={75}
+                                border-radius={50}
                                 priority
                               />
         </div>              
