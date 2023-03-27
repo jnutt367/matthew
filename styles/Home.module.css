@@ -19,8 +19,8 @@
 .workshop {
     position: relative;
     border-radius: 50%; 
-    top: 300px;
-    left: 300px;
+    top: 100px;
+    left: 175px;
 }
 .holy {
   backgroud-color: silver;
@@ -28,7 +28,7 @@
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
   z-index:10;
-  top: 12px;
+  top: -112px;
   font-size: 36px;
   display: grid;
   align-items: center;
@@ -38,7 +38,7 @@
 }
 .bible {
  position: relative;
-  top: -37px;
+  top: -137px;
   z-index: 10;
   margin-top: 0;
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
@@ -177,7 +177,7 @@
   opacity: 0.95;
   padding-top: 40px;
   z-index: 2;
-  top: -30px;
+  top: -130px;
   margin-top: -135px;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   font-size: 64px;
