@@ -16,9 +16,7 @@ export default function Home() {
 
 
       <main className={styles.main}>
-     
-      <div className={styles.hero}>
-        <div className={styles.workshop}>
+       <div className={styles.workshop}>
        <Image 
                                 src="/workshop.png"
                                 alt="Jesus birth gif"
@@ -28,6 +26,8 @@ export default function Home() {
                                 priority
                               />
         </div>              
+      <div className={styles.hero}>
+      
             <h2 className={styles.holy}>THE HOLY</h2>
                 <h1 className={styles.bible}>
                     <a href="https://the-holy-bible.vercel.app/" target="_blank">BIBLE</a>
