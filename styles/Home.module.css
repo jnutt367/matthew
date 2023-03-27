@@ -21,6 +21,8 @@
     border-radius: 50%; 
     top: 20px;
     left: 200px;
+    float: right;
+    z-index: 11;
     margin: 0;
     padding: 0;
 }
