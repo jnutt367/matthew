@@ -17,6 +17,7 @@
 
 
 .workshop {
+    display: none;
     position: relative;
     border-radius: 50%; 
     top: 20px;
