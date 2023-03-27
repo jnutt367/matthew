@@ -18,15 +18,15 @@ export default function Home() {
       <main className={styles.main}>
      
       <div className={styles.hero}>
-        
-       <Image className={styles.workshop}
+        <div className={styles.workshop}>
+       <Image 
                                 src="/workshop.png"
                                 alt="Jesus birth gif"
                                 height={75}
                                 width={75}
                                 priority
                               />
-                      
+        </div>              
             <h2 className={styles.holy}>THE HOLY</h2>
                 <h1 className={styles.bible}>
                     <a href="https://the-holy-bible.vercel.app/" target="_blank">BIBLE</a>
