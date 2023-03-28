@@ -14,7 +14,10 @@ export default function Home() {
 
      
 
-
+ <div>
+      <h2>NextJs VideoPlayer - GeeksforGeeks</h2>
+      <ReactPlayer url='https://www.youtube.com/watch?v=wWgIAphfn2U' />
+    </div>
       <main className={styles.main}>
        <div className={styles.workshop}>
        <Image 
