@@ -138,7 +138,20 @@
     padding-top: 3rem;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-
+.donate {
+  background-color:blue;
+  opacity: 0.8;
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
+  
+}
+.donate:hover,
+.donate:focus,
+.donate:active {
+  background-color: red;
+  color: whitesmoke;
+}
 .donateButton {
     width: 200px;
 }
