@@ -139,9 +139,9 @@
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .donate {
-  background-color:blue;
+  background-color:white;
   opacity: 0.8;
-  color: white;
+  color: black;
   font-family: fantasy, cursive, Times New Roman, monospace;
   height: 28pxpx;
   border-radius: 10px;
@@ -152,7 +152,7 @@
 .donate:hover,
 .donate:focus,
 .donate:active {
-  background-color: red;
+  background-color: black;
   color: whitesmoke;
 }
 .donateButton {
