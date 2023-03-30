@@ -163,6 +163,22 @@
     color: white;
     cursor: pointer;
 }
+.donate {
+  background-color:white;
+  opacity: 0.8;
+  color: black;
+  font-family: fantasy, cursive, Times New Roman, monospace;
+  border-radius: 10px;
+  padding: 5px;
+  top: -25px;
+  
+}
+.donate:hover,
+.donate:focus,
+.donate:active {
+  background-color: black;
+  color: whitesmoke;
+}
 
 .title a {
     color: black;
