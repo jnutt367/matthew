@@ -37,7 +37,7 @@ export default function Home() {
         </h1>
         <div  className={styles.image}>
        <Image
-                                src="/baby-jesus-religious-christmas-night-5l7iy8n2tcwhfvwc.gif"
+                                src="/abody (1).webp"
                                 alt="Jesus birth gif"
                                 height={900}
                                 width={2000}
@@ -1607,6 +1607,15 @@ The Great Commission
                               />
            
         </div>     
+  <div  className={styles.image}>
+       <Image
+                                src="/workshop.png"
+                                alt="Jay's workshop"
+                                height={900}
+                                width={2000}
+                                priority
+                              />
+        </div>          
 </div>
         <p className={styles.description}>
           
