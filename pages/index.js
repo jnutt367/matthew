@@ -37,7 +37,7 @@ export default function Home() {
         </h1>
         <div  className={styles.image}>
        <Image
-                                src="/resurrection-empty-tomb-he-has-risen-skmma30y834g4c2j.gif"
+                                src="/resurrection.webp"
                                 alt="Jesus birth gif"
                                 height={900}
                                 width={2000}
