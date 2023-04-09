@@ -37,7 +37,7 @@ export default function Home() {
         </h1>
         <div  className={styles.image}>
        <Image
-                                src="/abody (1).webp"
+                                src="/resurrection-empty-tomb-he-has-risen-skmma30y834g4c2j.gif"
                                 alt="Jesus birth gif"
                                 height={900}
                                 width={2000}
@@ -74,7 +74,7 @@ export default function Home() {
        </a>           
         </div>
   
-         <p className={styles.fund}>(Matthew 1:20)  "what is conceived in her is from the Holy Spirit. She will give birth to a son, and you are to give him the name Jesus” </p>
+         <p className={styles.fund}>(Matthew 28:6) "His appearance was like lightning, and his clothing white as snow." ... "He is not here, for he has risen, as he said. Come, see the place where he lay. ” </p>
         <div className={styles.grid}>
          
         <div className={styles.card}>
