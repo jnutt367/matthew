@@ -1588,16 +1588,7 @@ The Great Commission
           </div>
 
         </div>            
-  <div  className={styles.image}>
-       <Image
-                                src="/istockphoto-1165307675-612x612.jpg"
-                                alt="Jesus carries the cross"
-                                height={900}
-                                width={2000}
-                                priority
-                              />
-        </div>     
-        
+ 
   <div  className={styles.image}>
        <Image
                                 src="/workshop.png"
