@@ -151,8 +151,9 @@
 .donate:hover,
 .donate:focus,
 .donate:active {
-  background-color: black;
+  background-color: rgb(52, 118, 153);
   color: whitesmoke;
+  border: 2px solid black;
 }
 .donateButton {
     width: 200px;
