@@ -176,8 +176,9 @@
 .donate:hover,
 .donate:focus,
 .donate:active {
-  background-color: black;
+  backgrobackground-color: red;
   color: whitesmoke;
+  border: 2px solid black;
 }
 
 .title a {
