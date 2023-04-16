@@ -31,10 +31,7 @@ export default function Home() {
                 <h1 className={styles.bible}>
                     <a href="https://the-holy-bible.vercel.app/" target="_blank">OF GOD</a>
                 </h1>
-          <p className={styles.transcribed}>
-               
-                   "Risen"
-             </p>
+          
         <h1 className={styles.title}>
          MATTHEW
         </h1>
