@@ -38,7 +38,7 @@ export default function Home() {
          <div  className={styles.image}>
                      <a href="https://matthew-coral.vercel.app/">
                                <Image 
-                                src="/Praying.png"
+                                src="/Praying (1).fbx"
                                 alt="Nativity silent night gif"
                                 height={900}
                                 width={2000}
