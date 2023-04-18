@@ -62,9 +62,13 @@ export default function Home() {
        </a>
 
         <a href="https://gofund.me/a2b590af">
-             <p className={styles.donate}>
-               SUBSCRIBE!
-               </p>
+              <Image className={styles.arrow}
+                                src="/favicon-tbn.png"
+                                alt="funding-icon"
+                                height={75}
+                                width={75}
+                                priority
+                              /> 
        </a>
            
            
