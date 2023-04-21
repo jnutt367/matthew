@@ -8,8 +8,6 @@
 .container {
   background-color: black;
   background-image:url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
   width: 100%;
   display: grid;
   align-items: center;
