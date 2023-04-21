@@ -83,16 +83,16 @@
 
 .main {
   background-color: black;
+ /*  background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);*/
   min-height: 100vh;  
   padding: 4rem 0;  
   max-width: 900px;
-  background-size: cover;
   position:relative;
   top: 10px;
 }
 
 .image {
-    background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
+    background-image: url(/monophy.gif);
     opacity: 0.5;
     margin-top: -50px;
     padding-left: 100px;
