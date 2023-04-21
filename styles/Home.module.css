@@ -80,6 +80,7 @@
     align-items: center;
 }
 */
+
 .main {
   background-color: black;
   min-height: 100vh;  
@@ -89,8 +90,6 @@
   position:relative;
   top: 10px;
 }
-
-
 
 .image {
     background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
@@ -466,9 +465,7 @@
     }
     
     
-    .main {
-        background-color: transparent;
-    }
+   
 }
    
 
