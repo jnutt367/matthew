@@ -7,6 +7,9 @@
 */
 .container {
   background-color: black;
+  background-image:url(/monophy.gif);
+  background-size: cover;
+  background-repeat: no-repeat;
   width: 100%;
   display: grid;
   align-items: center;
