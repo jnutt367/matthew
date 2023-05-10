@@ -303,11 +303,14 @@
 }
 
 .grid {
+    background-color: black;
+    background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpeg);
+    color: white;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    max-width: 1400px;
+    max-width: 2000px;
 }
 
 .h2 {
@@ -334,14 +337,13 @@
 }
 
 .card {
-    background-image: url(/cross-hands-god-jesus-religion-faith-pray-prayer-christian.jpg);
+    background-image: url(/matthew_black.jpeg);
     background-repeat: no-repeat;
-    background-attachment: fixed;
     background-position: center;
     background-position-x: center;
     background-position-y: center;
     background-origin: content-box;
-    background-size: cover;
+    background-size: contain;
     display: grid;
     place-items: center;
     background-repeat: no-repeat;
@@ -351,7 +353,7 @@
     padding: 0rem;
     padding-top: -25px;
     text-align: left;
-    max-height: 700px;
+    max-height: 400px;
     max-width: 400px;
     background-color: black;
     overflow: scroll;
@@ -461,11 +463,20 @@
         padding-left: 200px;
         padding-right: 200px;     
     }
-    
+    .grid {
+        grid-template-columns: 200px 200px 200px;
+        
+    }
     
    
 }
+@media (max-width: 600px) {
+    .grid {
+        width: 100%;
+        flex-direction: column;
+    }
    
+}
 
 
 @media (max-width: 769px) {
