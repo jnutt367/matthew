@@ -49,7 +49,7 @@ export default function Home() {
                             
  
 
-<iframe width="100%" height="250" src="https://www.youtube.com/embed/dhsAjjz8WLk" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="300" src="https://www.youtube.com/embed/J3K4LekklkA" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                     
 <div className={styles.nav}>               
        <a href="https://the-holy-bible.vercel.app/">
