@@ -38,7 +38,7 @@ export default function Home() {
          <div  className={styles.image}>
                      <a href="https://matthew-coral.vercel.app/">
                                <Image 
-                                src="/Praying.png"
+                                src="/Jesus-color-silhouette-low-poly-pattern.svg"
                                 alt="Nativity silent night gif"
                                 height={900}
                                 width={2000}
