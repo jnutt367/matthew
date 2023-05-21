@@ -7,7 +7,6 @@
 */
 .container {
   background-color: black;
-  background-image:url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
   width: 100%;
   display: grid;
   align-items: center;
@@ -81,7 +80,6 @@
 
 .main {
   background-color:  black;
-  background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpeg);
   min-height: 100vh;  
   padding: 4rem 0;  
   max-width: 2000px;
@@ -91,7 +89,7 @@
 }
 
 .image {
-    background-image: url(/monophy.gif);
+    background-image: url(/matthew_black.jpeg);
     opacity: 0.5;
     margin-top: -50px;
     padding-left: 100px;
@@ -305,7 +303,6 @@
 
 .grid {
     background-color: black;
-    background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpeg);
     color: white;
     display: flex;
     align-items: center;
