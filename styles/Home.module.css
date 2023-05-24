@@ -100,6 +100,10 @@
     border: 50px 0 10px solid  orange;
     opacity: 1;
 }
+.iframe {
+       width: 100%;
+}
+
 .fund {
    text-align: center;
     color: white;
@@ -467,8 +471,10 @@
         grid-template-columns: 200px 200px 200px;
         
     }
-    
-   
+    .iframe {
+        padding-left: 200px;
+        padding-right: 200px;
+    }   
 }
 @media (max-width: 600px) {
     .grid {
