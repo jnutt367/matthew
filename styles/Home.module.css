@@ -14,27 +14,9 @@
   text-align: left;
   position: relative;
 }
-.transcribed {
-   text-align:center;
-   color: white;
-   font-weight: bolder;
-   position: relative;
-   top: -100px;
-   padding-left: 8px;
-   padding: 5px;
-   font-size: 12px;
-}
-.workshop {
-    display: none;
-    position: relative;
-    border-radius: 50%; 
-    top: 20px;
-    left: 200px;
-    float: right;
-    z-index: 11;
-    margin: 0;
-    padding: 0;
-}
+
+
+
 .holy {
   backgroud-color: silver;
   color: white;
@@ -56,7 +38,7 @@
   margin-top: 0;
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
   color: white;
-  font-size: 52px;
+  font-size: 64px;
   padding-left: 5px;
   display: grid;
   align-items: center;
@@ -77,33 +59,16 @@
     align-items: center;
 }
 */
-
 .main {
   background-color:  black;
   min-height: 100vh;  
   padding: 4rem 0;  
-  max-width: 2000px;
-  background-size: cover;
   position:relative;
   top: 10px;
-}
-
-.image {
-    background-image: url(/matthew_black.jpeg);
-    opacity: 0.5;
-    margin-top: -50px;
-    padding-left: 100px;
-    padding-right: 100px;
-    display: grid;
-    place-items: center;
-    max-height: 700px; 
-    border: 50px 0 10px solid  orange;
-    opacity: 1;
 }
 .iframe {
        width: 100%;
 }
-
 .fund {
    text-align: center;
     color: white;
@@ -115,6 +80,41 @@
     font-family:"Times New Roman", Times, serif;
     font-weight: 900;
 }
+
+.image {
+    /*background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);*/
+    text-align: center;
+    background-color: black;
+    opacity: 0.5;
+    margin-top: -50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    display: grid;
+    place-items: center;
+    align-items: center;
+    justify-content: center;
+    max-height: 900px; 
+    alig-items: center;
+    opacity: 1;
+}
+.donate {
+  background-color:white;
+  opacity: 0.8;
+  color: black;
+  font-family: fantasy, cursive, Times New Roman, monospace;
+  height: 28pxpx;
+  border-radius: 10px;
+  padding: 5px;
+  top: -25px;
+  
+}
+.donate:hover,
+.donate:focus,
+.donate:active {
+  background-color: black;
+  color: whitesmoke;
+}
+
 .footer {
     display: flex;
     flex: 1;
@@ -149,23 +149,7 @@
     padding-top: 3rem;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-.donate {
-  background-color:white;
-  opacity: 0.8;
-  color: black;
-  font-family: fantasy, cursive, Times New Roman, monospace;
-  border-radius: 10px;
-  padding: 5px;
-  top: -25px;
-  
-}
-.donate:hover,
-.donate:focus,
-.donate:active {
-  background-color: rgb(52, 118, 153);
-  color: whitesmoke;
-  border: 2px solid black;
-}
+
 .donateButton {
     width: 200px;
 }
@@ -173,23 +157,6 @@
 .donateButton:hover {
     color: white;
     cursor: pointer;
-}
-.donate {
-  background-color:white;
-  opacity: 0.8;
-  color: black;
-  font-family: fantasy, cursive, Times New Roman, monospace;
-  border-radius: 10px;
-  padding: 5px;
-  top: -25px;
-  
-}
-.donate:hover,
-.donate:focus,
-.donate:active {
-  backgrobackground-color: red;
-  color: whitesmoke;
-  border: 2px solid black;
 }
 
 .title a {
@@ -221,8 +188,8 @@
 
 .title {
   color: white;
-  background-color: black;  
   position: sticky; 
+  background-color: black;
   opacity: 0.95;
   padding-top: 40px;
   z-index: 2;
@@ -265,7 +232,7 @@
 
 .button:hover {
     color: black;
-    background-color:#ED7014;
+    background-color:#CBC3E3;
     opacity: 0.7;
     text-shadow: 1px 1px black;
     opacity: 1;
@@ -284,7 +251,7 @@
 }
 
 .nav {
-    background-color:  orange;
+    background-color: #ED7014;
     opacity: 1;
     padding: 5px;
     display: flex;
@@ -306,13 +273,12 @@
 }
 
 .grid {
-    background-color: black;
+    background-color: #ED7014;
     color: white;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    max-width: 2000px;
 }
 
 .h2 {
@@ -339,7 +305,7 @@
 }
 
 .card {
-    background-image: url(/matthew_black.jpeg);
+    background-image: url(/cross-hands-god-jesus-religion-faith-pray-prayer-christian.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-position-x: center;
@@ -365,7 +331,7 @@
     font-family: monospace;
 }
 .chapter {
-    background-color: orange;
+    background-color: #ED7014;
     color: black;
     opacity: 1;
     position: sticky;
@@ -374,7 +340,7 @@
     text-align: center;
     top: 0px;
     margin: 0;
-    padding-top: 20px;
+    padding-top: 25px;
     padding-bottom: 5px;
     font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
 }
@@ -390,7 +356,7 @@
     display: inline;
     color: black;
     opacity: 1;
-    border: 6px solid #ED7014;
+    border: 6px solid #ffa500;
     background-image: url(/paper.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -460,29 +426,18 @@
 }
 
 
-@media (min-width: 769px) {
+@media (min-width: 1080px) {
          .image {
-         padding-left: 200px;
-        padding-right: 200px;
-        margin-left: 100px; 
-        margin-right: 100px;     
+        padding-left: 300px;
+        padding-right: 300px;     
     }
-    .grid {
+    
+           .grid {
         grid-template-columns: 200px 200px 200px;
         
     }
-    .iframe {
-        padding-left: 200px;
-        padding-right: 200px;
-    }   
 }
-@media (max-width: 600px) {
-    .grid {
-        width: 100%;
-        flex-direction: column;
-    }
    
-}
 
 
 @media (max-width: 769px) {
