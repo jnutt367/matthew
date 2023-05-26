@@ -82,7 +82,7 @@
 }
 
 .image {
-    background-image: url(/matthew_black.jpeg);
+    /*background-image: url(/matthew_black.jpeg);*/
     background-size: contain;
     background-repeat: no-repeat;
     text-align: center;
