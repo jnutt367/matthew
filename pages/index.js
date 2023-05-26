@@ -36,10 +36,10 @@ export default function Home() {
                                 priority
                               />
                      </a>
-                </div>
+              
                             
  
-<div className={styles.iframe}> 
+
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/3Dv4-n6OYGI" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div> 
 <div className={styles.nav}>               
