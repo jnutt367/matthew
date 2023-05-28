@@ -55,7 +55,7 @@ export default function Home() {
 
         <a href="https://gofund.me/a2b590af">
               <Image className={styles.arrow}
-                                src="/fundme.png"
+                                src="/Black-youtube-icon-design-on-transparent-background-PNG.png"
                                 alt="funding-icon"
                                 height={75}
                                 width={75}
