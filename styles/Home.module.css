@@ -307,7 +307,7 @@
 }
 
 .card {
-    background-image: url(/cross-hands-god-jesus-religion-faith-pray-prayer-christian.jpg);
+    background-image: url(/19-wordle-psalms.jpeg);
     background-repeat: no-repeat;
     background-position: center;
     background-position-x: center;
@@ -356,9 +356,9 @@
 .card:focus,
 .card:active {
     display: inline;
-    color: black;
+    color: #800808;
     opacity: 1;
-    border: 6px solid #ffa500;
+    border: 6px solid #800808;
     background-image: url(/paper.jpg);
     background-repeat: no-repeat;
     background-size: cover;
