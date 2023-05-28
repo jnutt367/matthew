@@ -53,10 +53,10 @@ export default function Home() {
                               />
        </a>
 
-        <a href="https://gofund.me/a2b590af">
+        <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
               <Image className={styles.arrow}
-                                src="/Black-youtube-icon-design-on-transparent-background-PNG.png"
-                                alt="funding-icon"
+                                src="/youtube-logo-png-hd-21.png"
+                                alt="youtube-icon"
                                 height={75}
                                 width={75}
                                 priority
