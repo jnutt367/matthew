@@ -309,6 +309,8 @@
 .card {
     background-image: url(/19-wordle-psalms.jpeg);
     background-repeat: no-repeat;
+    border-radius: 15px 50px 30px;
+    box-shadow: lightblue 0px 5px 15px;
     background-position: center;
     background-position-x: center;
     background-position-y: center;
