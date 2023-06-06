@@ -441,6 +441,11 @@
         grid-template-columns: 200px 200px 200px;
         
     }
+    .iframe {
+    padding-right: 200px;
+    padding-left: 200px;
+    }
+    
 }
    
 
