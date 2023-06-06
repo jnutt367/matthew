@@ -39,9 +39,7 @@ export default function Home() {
               
                             
 </div> 
-          <div className={styles.iframe}>
-               <iframe width="100%" height="315" src="https://www.youtube.com/embed/3Dv4-n6OYGI" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-          </div>
+         
 <div className={styles.nav}>               
        <a href="https://the-holy-bible.vercel.app/">
            <Image className={styles.arrow}
@@ -74,7 +72,9 @@ export default function Home() {
                               />
        </a>           
         </div>
-  
+   <div className={styles.iframe}>
+               <iframe width="100%" height="315" src="https://www.youtube.com/embed/3Dv4-n6OYGI" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          </div>
          <p className={styles.fund}>(Matthew 28:6) "His appearance was like lightning, and his clothing white as snow." ... "He is not here, for he has risen, as he said. Come, see the place where he lay. ” </p>
         <div className={styles.grid}>
          
