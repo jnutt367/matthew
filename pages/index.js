@@ -43,7 +43,7 @@ export default function Home() {
         Matthew tells of the good news that the long-awaited messiah had come to save people, Jews & Gentiles alike.                                   
 </p>
 <div className={styles.nav}>               
-       <a href="https://the-holy-bible.vercel.app/">
+       <a href="https://the-word-of-god.vercel.app/">
            <Image className={styles.arrow}
                                 src="/chevron-left.svg"
                                 alt="Left arrow"
