@@ -65,6 +65,9 @@
 }
 */
 .main {
+  display: grid;
+  align-items: center;
+  justify-content: center;  
   background-color:  black;
   min-height: 100vh;  
   padding: 4rem 0;
