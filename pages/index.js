@@ -40,7 +40,7 @@ export default function Home() {
                             
 </div> 
 <p className={styles.parables}>
-        Description of the gospel according to Matthew                                  
+        Matthew tells of the good news that the long-awaited messiah had come to save people, Jews & Gentiles alike.                                   
 </p>
 <div className={styles.nav}>               
        <a href="https://the-holy-bible.vercel.app/">
