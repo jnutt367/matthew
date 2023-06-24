@@ -213,8 +213,8 @@
 .title {
   color: white;
   position: sticky; 
-  background-color: transparent;
-  opacity: 0.95;
+  background-color: black;
+  opacity: 0.5;
   padding-top: 40px;
   z-index: 2;
   top: -30px;
