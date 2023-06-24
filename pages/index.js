@@ -1590,8 +1590,8 @@ The Great Commission
           </div>
        </div>     
   </div>            
- </div>
-      <div  className={styles.image}>
+  </main>
+  <div  className={styles.image}>
        <Image 
                                 src="/workshop.png"
                                 alt="the Last supper"
@@ -1610,7 +1610,7 @@ The Great Commission
                       </a>
         </p>
 <iframe width="100%" height="175" src="https://www.youtube.com/embed/zr54VtQNbgg?autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
- </main>
+
 </div>
  
    
