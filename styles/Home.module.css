@@ -375,7 +375,7 @@
     display: inline;
     color: black;
     opacity: 1;
-    border: 6px solid #9f00ff;
+    border: 6px solid white;
     background-image: url(/paper.jpg);
     background-repeat: no-repeat;
     background-size: cover;
