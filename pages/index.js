@@ -1590,7 +1590,7 @@ The Great Commission
           </div>
        </div>     
       </div>
-    </div>            
+           
   </main>
 
  
