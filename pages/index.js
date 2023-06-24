@@ -1594,6 +1594,6 @@ The Great Commission
   </main>
 
  
-   
+  </div>   
   )
 }
