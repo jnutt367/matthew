@@ -40,7 +40,7 @@ export default function Home() {
                             
 </div> 
 <p className={styles.parables}>
-        Description of the godpel of Matthew                                  
+        Description of the gospel according to Matthew                                  
 </p>
 <div className={styles.nav}>               
        <a href="https://the-holy-bible.vercel.app/">
