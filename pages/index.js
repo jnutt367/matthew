@@ -27,19 +27,21 @@ export default function Home() {
          MATTHEW
         </h1>
          <div  className={styles.image}>
-                     <a href="https://matthew-coral.vercel.app/">
+                   
                                <Image 
-                                src="/matthew_black.jpeg"
-                                alt="Nativity silent night gif"
+                                src="/risen_1.png"
+                                alt="Jesus in clouds"
                                 height={900}
                                 width={2000}
                                 priority
                               />
-                     </a>
+                    
               
                             
 </div> 
-         
+<p className={styles.parables}>
+        Description of the godpel of Matthew                                  
+</p>
 <div className={styles.nav}>               
        <a href="https://the-holy-bible.vercel.app/">
            <Image className={styles.arrow}
@@ -75,10 +77,9 @@ export default function Home() {
    <div className={styles.iframe}>
                <iframe width="100%" height="315" src="https://www.youtube.com/embed/3Dv4-n6OYGI" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
           </div>
-         <p className={styles.fund}>(Matthew 28:6) "His appearance was like lightning, and his clothing white as snow." ... "He is not here, for he has risen, as he said. Come, see the place where he lay. ” </p>
-        <div className={styles.grid}>
-         
-        <div className={styles.card}>
+        
+         <div className={styles.grid}>
+                                  <div className={styles.card}>
             <h2  className={styles.chapter}>Matthew Chapter I</h2>
             <p>
 1 This is the genealogy of Jesus the Messiah, the son of David, the son of Abraham:
@@ -1587,11 +1588,9 @@ The Great Commission
 16 Then the eleven disciples went to Galilee, to the mountain where Jesus had told them to go. 17 When they saw him, they worshiped him; but some doubted. 18 Then Jesus came to them and said, “All authority in heaven and on earth has been given to me. 19 Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, 20 and teaching them to obey everything I have commanded you. And surely I am with you always, to the very end of the age.”
             </p>
           </div>
-
-        </div>            
- 
-   
-</div>
+       </div>     
+  </div>            
+ </div>
       <div  className={styles.image}>
        <Image 
                                 src="/workshop.png"
