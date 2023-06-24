@@ -5,6 +5,7 @@
     position: relative;
 }
 */
+
 .container {
   background-color: black;
   width: 100%;
@@ -18,7 +19,7 @@
 
 
 .holy {
-  backgroud-color: silver;
+  backgroud-color: black;
   color: white;
   font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
@@ -45,7 +46,11 @@
   justify-items: center;
   tex-align: left;
 }
-
+.red:active,
+.red:focus,
+.red:hover {
+    color: ;
+}
 /*
 .main {
     background-color: black;
@@ -62,7 +67,7 @@
 .main {
   background-color:  black;
   min-height: 100vh;  
-  padding: 4rem 0;  
+  padding: 4rem 0;
   position:relative;
   top: 10px;
 }
@@ -71,7 +76,7 @@
 }
 .fund {
    text-align: center;
-    color: white;
+    color: black;
     position: relative;
     padding-right: 20px;
     padding-left: 20px;
@@ -80,11 +85,20 @@
     font-family:"Times New Roman", Times, serif;
     font-weight: 900;
 }
-
+.parables {
+    display: grid;
+    text-align: center;
+    color: white;
+    position: relative;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-top: 25px;
+    top: -15px;
+    font-family: Ariel, sans, sans-serif, "Times New Roman", Times, serif;
+    font-weight: 200;
+}
 .image {
-    /*background-image: url(/matthew_black.jpeg);*/
-    background-size: contain;
-    background-repeat: no-repeat;
+    /*background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpeg);*/
     text-align: center;
     background-color: black;
     opacity: 0.5;
@@ -98,6 +112,10 @@
     max-height: 900px; 
     alig-items: center;
     opacity: 1;
+}
+.book {
+    text-align: center;
+    font-family: fantasy, cursive, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .donate {
   background-color:white;
@@ -126,6 +144,7 @@
     align-items: center;
 }
 .hero {
+  max-width: 1350px;
   position:relative;
   top: -105px;
 }
@@ -137,7 +156,7 @@
 .footer a {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center;   
     flex-grow: 1;
 }
 
@@ -242,18 +261,14 @@
     cursor:pointer;
 }
 
-.span {
-    font-size: xx-large;
-    color: orange;
-    text-shadow: 1px 1px black;
-}
+
 
 .span:hover {
-    color: white;
+    color: #880808;
 }
 
 .nav {
-    background-color: white;
+    background-color: #9f00ff;
     opacity: 1;
     padding: 5px;
     display: flex;
@@ -275,8 +290,8 @@
 }
 
 .grid {
-    background-color: white;
-    color: black;
+    background-color: black;
+    color: white;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -307,10 +322,8 @@
 }
 
 .card {
-    background-image: url(/19-wordle-psalms.jpeg);
+    background-image: url(/parables_word_cloud.png);
     background-repeat: no-repeat;
-    border-radius: 15px 50px 30px;
-    box-shadow: lightblue 0px 5px 15px;
     background-position: center;
     background-position-x: center;
     background-position-y: center;
@@ -328,20 +341,23 @@
     max-height: 400px;
     max-width: 400px;
     background-color: black;
-    overflow: scroll;
-    text-decoration: none;
     border-radius: 15px 50px 30px;
+    overflow: hidden;
+    text-decoration: none;
     border: 3px solid #eaeaea;
-    transition: color 0.15s ease, border-color 2s ease;
+    transition: color 0.15s ease, border-color 0.7s ease;
     font-family: monospace;
+    box-shadow: lightblue 0px 5px 15px;
 }
 .chapter {
-    background-color: white;
-    color: black;
+    background-color: black;
+    color: white;
+    opacity: 0.8;
     opacity: 1;
     position: sticky;
     z-index: 1;
     width: 100%;
+    font-weight: 200;
     text-align: center;
     top: 0px;
     margin: 0;
@@ -349,19 +365,14 @@
     padding-bottom: 5px;
     font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
 }
-.chapter:hover,
-.chapter:focus,
-.chapter:active {
-    font-weight: bolder;
-    opacity: 1;
-}
+
 .card:hover,
 .card:focus,
 .card:active {
     display: inline;
-    color: #800808;
+    color: black;
     opacity: 1;
-    border: 6px solid #800808;
+    border: 6px solid #9f00ff;
     background-image: url(/paper.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -409,7 +420,7 @@
 .publisher {
     font-family: Arial, Verdana, Tahoma, Trebuchet MS, Times New Roman, Georgia, Garamond, Courier New, Brush Script MT; 
     color: white;
-    margin-left: 2rem;
+    text-align: center;
 }
 
 @media (max-width: 600px) {
@@ -417,6 +428,7 @@
         width: 100%;
         flex-direction: column;
     }
+   
 }
 
 @media (max-width: 769px) {
@@ -430,22 +442,28 @@
     }
 }
 
-
+@media (min-width: 769x) {
+     .fund {
+        padding-right: 120px;
+        padding-left: 120px; 
+    }
+}
 @media (min-width: 1080px) {
          .image {
-        padding-left: 300px;
-        padding-right: 300px;     
+        padding-left: 200px;
+        padding-right: 200px;
+        margin-left: 100px; 
+        margin-right: 100px;      
     }
-    
-           .grid {
+   
+        .grid {
         grid-template-columns: 200px 200px 200px;
         
     }
     .iframe {
-    padding-right: 200px;
-    padding-left: 200px;
+        padding-left: 200px;
+        padding-right: 200px;
     }
-    
 }
    
 
