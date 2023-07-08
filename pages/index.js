@@ -43,22 +43,23 @@ export default function Home() {
         Matthew tells of the good news that the long-awaited messiah had come to save people, Jews & Gentiles alike.                                   
 </p>
 <div className={styles.nav}>               
-       <a href="https://the-word-of-god.vercel.app/">
+
+    <a href="https://myproverbs.vercel.app/">
            <Image className={styles.arrow}
-                                src="/chevron-left.svg"
+                                src="/previous.webp"
                                 alt="Left arrow"
                                 height={75}
                                 width={75}
                                 priority
                               />
-       </a>
-
-        <a href="https://www.youtube.com/channel/UCC4jNk2Tms-KNO1h1YOjfRw">
+       </a>  
+  
+  <a href="https://the-word-of-god.vercel.app/">
               <Image className={styles.arrow}
-                                src="/youtube-logo-png-hd-21.png"
+                                src="/upward_pointing.webp"
                                 alt="youtube-icon"
                                 height={75}
-                                width={75}
+                                width={90}
                                 priority
                               /> 
        </a>
@@ -66,10 +67,10 @@ export default function Home() {
            
         <a href="https://mark-alpha.vercel.app/">
              <Image className={styles.arrow}
-                                src="/chevron-right.svg"
+                                src="/next.webp"
                                 alt="right arrow"
                                  height={75}
-                                width={75}
+                                width={90}
                                 priority
                               />
        </a>           
