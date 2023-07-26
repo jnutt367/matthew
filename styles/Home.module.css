@@ -278,6 +278,26 @@
     justify-content: space-around;
     position: sticky;
 }
+
+.nav2 {
+    background-color: #37ADA2;
+    color: white;
+    opacity: 1;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: sticky;
+}
+
+.nav2 a:hover {
+    scale: 1.1;
+    background-color: black;
+    opacity: 0.8;
+    border: 2px dotted whitesmoke;
+    border-radius: 50%;
+}
+
 .nav a:hover {
     scale: 1.1;
     background-color: black;
@@ -307,6 +327,15 @@
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
+}
+
+.grid2 {
+    background-color: #37ADA2;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;   
 }
 
 .h2 {
@@ -360,6 +389,35 @@
     font-family: monospace;
     box-shadow: lightblue 0px 5px 15px;
 }
+
+.card2 {
+    background-image: url(/timothy.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-x: center;
+    background-position-y: center;
+    background-origin: content-box;
+    background-size: cover;
+    display: grid;
+    place-items: center;
+    background-repeat: no-repeat;
+    color: transparent;
+    margin: 1.5rem;
+    margin-bottom: 5rem;
+    padding: 0rem;
+    padding-top: -25px;
+    text-align: left;
+    max-height: 400px;
+    max-width: 400px;
+    background-color: black;
+    border-radius: 15px 50px 30px;
+    overflow: hidden;
+    text-decoration: none;
+    border: 3px solid #eaeaea;
+    transition: color 0.15s ease, border-color 0.7s ease;
+    font-family: monospace;
+    box-shadow: lightblue 0px 5px 15px;
+}
 .chapter {
     background-color: black;
     color: white;
@@ -368,6 +426,24 @@
     position: sticky;
     z-index: 1;
     width: 100%;
+    text-align: center;
+    top: 0px;
+    margin: 0;
+    padding-top: 25px;
+    padding-bottom: 5px;
+    font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+}
+
+.chapter2 {
+
+    background-color: #37ADA2;
+    color: white;
+    opacity: 0.8;
+    opacity: 1;
+    position: sticky;
+    z-index: 1;
+    width: 100%;
+    font-weight: 200;
     text-align: center;
     top: 0px;
     margin: 0;
@@ -418,6 +494,47 @@
 .chapter:focus {
        color: white;
 }
+
+.card2:hover,
+.card2:focus,
+.card2:active {
+    display: inline;
+    color: black;
+    opacity: 0.9;
+    border: 6px solid black;
+    background-image: url(/paper.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    cursor: all-scroll;
+    overflow: scroll;
+    font-family: monospace;
+}
+
+
+.card2 h2 {
+    margin: 0 0 1rem 0;
+    font-size: 1.5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.card2 h2:hover {
+    color: black;
+}
+
+.card2 p {
+    margin: 0;
+    padding: 1.5rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    font-family: monospace;
+}
+
+.card2 p:hover {
+    font-weight: 900;
+}
+
+
+
 .logo {
     height: 1em;
     margin-left: 0.5rem;
