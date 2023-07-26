@@ -1742,7 +1742,7 @@ The Great Commission
           </div>
           <div className={styles.card2}
           >
-            <h2 className={styles.chapter2}>I Timothy Chapter V/h2>
+            <h2 className={styles.chapter2}>I Timothy Chapter V</h2>
                               <p> Widows, Elders and Slaves
                   5 Do not rebuke an older man harshly, but exhort him as if he were your father. Treat younger men as brothers, 2 older women as mothers, and younger women as sisters, with absolute purity.
                   
