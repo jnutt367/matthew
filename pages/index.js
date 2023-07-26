@@ -1768,7 +1768,7 @@ The Great Commission
 
    <div className={styles.card2}
           >
-            <h2 className={styles.chapter2}>I Timothy Chapter IV/h2>
+            <h2 className={styles.chapter2}>I Timothy Chapter IV </h2>
                                 <p>
                               6 All who are under the yoke of slavery should consider their masters worthy of full respect, so that God’s name and our teaching may not be slandered. 2 Those who have believing masters should not show them disrespect just because they are fellow believers. Instead, they should serve them even better because their masters are dear to them as fellow believers and are devoted to the welfare[a] of their slaves.
                               
