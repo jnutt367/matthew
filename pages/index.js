@@ -1625,7 +1625,7 @@ The Great Commission
            Timothy was very young & had the duty of leading the church, so, Paul wrote to instruct him on HOW to live as a "man of God"
 </p>                                                      
                   <div className={styles.nav2}>           
-      <a href="https://romans-five.vercel.app/">
+      <a href="https://second-corinthians.vercel.app/#second_thessalonians">
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
@@ -1645,7 +1645,7 @@ The Great Commission
                                 priority
                               /> 
        </a>
-         <a href="https://second-corinthians.vercel.app/">
+         <a href="https://mark-alpha.vercel.app/#second_timothy">
            <Image 
                                 src="/next.webp"
                                 alt="next"
