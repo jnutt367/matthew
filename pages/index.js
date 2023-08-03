@@ -44,7 +44,7 @@ export default function Home() {
 </p>
 <div className={styles.nav}>               
 
-    <a href="https://myproverbs.vercel.app/">
+    <a href="https://the-word-of-god.vercel.app/">
            <Image className={styles.arrow}
                                 src="/previous.webp"
                                 alt="Left arrow"
