@@ -302,8 +302,6 @@
 }
 .nav a:hover {
     opacity: 1;
-    border: 2px dotted whitesmoke;
-    border-radius: 50%;
 }
 
 
