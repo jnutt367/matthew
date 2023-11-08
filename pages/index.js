@@ -26,15 +26,9 @@ export default function Home() {
         <h1 className={styles.title}>
          MATTHEW
         </h1>
-         <div  className={styles.image}>
+         <div  className={styles.iframe}>
                    
-                               <Image 
-                                src="/risen_1.png"
-                                alt="Jesus in clouds"
-                                height={900}
-                                width={2000}
-                                priority
-                              />
+                      <iframe width="100%" height="315" src="https://www.youtube.com/embed/2ErTneBIJJs?si=9aKcdWceyfTjW678?autoplay=1mute=1" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                     
               
                             
