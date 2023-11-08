@@ -297,11 +297,11 @@
     border: 2px dotted whitesmoke;
     border-radius: 50%;
 }
-
+.nav a {
+    opacity:0.8;
+}
 .nav a:hover {
-    scale: 1.1;
-    background-color: black;
-    opacity: 0.9;
+    opacity: 1;
     border: 2px dotted whitesmoke;
     border-radius: 50%;
 }
