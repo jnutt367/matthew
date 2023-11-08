@@ -38,7 +38,8 @@ export default function Home() {
 <div className={styles.nav}>               
 
     <a href="https://the-word-of-god.vercel.app/" target="_blank">
-           <Image className={styles.arrow}
+    <p>Previous</p>
+    <Image className={styles.arrow}
                                 src="/previous.webp"
                                 alt="Left arrow"
                                 height={75}
@@ -48,6 +49,8 @@ export default function Home() {
        </a>  
   
   <a href="https://cash.app/$JNutt367" target="_blank">
+
+<p>Giving</p>
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="youtube-icon"
@@ -59,6 +62,7 @@ export default function Home() {
            
            
         <a href="https://mark-alpha.vercel.app/" target="_blank">
+<p>Next</p>                                  
              <Image className={styles.arrow}
                                 src="/next.webp"
                                 alt="right arrow"
