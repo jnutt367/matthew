@@ -32,7 +32,7 @@ export default function Home() {
                             
 </div> 
 <p className={styles.parables}>
-        What is conceived in her is from the Holy Spirit. She will give birth to a son, and you are to give him the name Jesus, because he will save his people from their sins                              
+         She will give birth to a son, and you are to give him the name Jesus, because he will save his people from their sins                              
 </p>
 <div className={styles.nav}>               
 
