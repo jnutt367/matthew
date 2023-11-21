@@ -32,7 +32,7 @@ export default function Home() {
                             
 </div> 
 <p className={styles.parables}>
-        Matthew tells of the good news that the long-awaited messiah had come to save people, Jews & Gentiles alike.                                   
+        What is conceived in her is from the Holy Spirit. She will give birth to a son, and you are to give him the name Jesus, because he will save his people from their sins                              
 </p>
 <div className={styles.nav}>               
 
