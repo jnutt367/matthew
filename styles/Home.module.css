@@ -278,6 +278,7 @@
     justify-content: space-around;
     position: sticky;
     border: 1px solid gold;
+    box-shadow: 5px 10px 20px black inset;
 }
 
 .nav2 {
@@ -327,7 +328,7 @@
     justify-content: center;
     flex-wrap: wrap;
     border: 1px solid gold;
-    box-shadow: 5px 10px 20px red inset;
+    box-shadow: 5px 10px 20px black inset;
 }
 
 .grid2 {
