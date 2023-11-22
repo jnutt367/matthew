@@ -273,6 +273,7 @@
 .nav {
     background-color: gold;
     background-image: linear-gradient(to bottom right, black, #87CEEB);
+    color: gold;
     opacity: 1;
     padding: 5px;
     display: flex;
