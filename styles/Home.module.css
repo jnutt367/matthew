@@ -69,7 +69,7 @@
   display: grid;
   align-items: center;
   justify-content: center;  
-  background-color:  black;
+  background-color:  transparent;
   min-height: 100vh;  
   padding: 4rem 0;
   position:relative;
@@ -272,6 +272,7 @@
 
 .nav {
     background-color: white;
+    background-image: linear-gradient(to bottom right, black, #87CEEB);
     opacity: 1;
     padding: 5px;
     display: flex;
@@ -284,6 +285,7 @@
 
 .nav2 {
     background-color: #37ADA2;
+    background-image: linear-gradient(to bottom right, black, #87CEEB);    
     color: white;
     opacity: 1;
     padding: 5px;
@@ -323,6 +325,7 @@
 
 .grid {
     background-color: white;
+    background-image: linear-gradient(to bottom right, black, #87CEEB);
     color: black;
     display: flex;
     align-items: center;
@@ -334,6 +337,7 @@
 
 .grid2 {
     background-color: #37ADA2;
+    background-image: linear-gradient(to bottom right, black, #87CEEB);
     color: white;
     display: flex;
     align-items: center;
