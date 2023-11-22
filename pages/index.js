@@ -1622,6 +1622,7 @@ The Great Commission
 </p>                                                      
                   <div className={styles.nav2}>           
       <a href="https://second-corinthians.vercel.app/#second_thessalonians">
+<p>Prev</p>                                                      
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
@@ -1633,6 +1634,7 @@ The Great Commission
 
         
       <a href="https://cash.app/$JNutt367">
+<p>Give</p>                                  
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
@@ -1642,6 +1644,7 @@ The Great Commission
                               /> 
        </a>
          <a href="https://mark-alpha.vercel.app/#second_timothy">
+<p>Next</p>                                      
            <Image 
                                 src="/next.webp"
                                 alt="next"
