@@ -39,7 +39,7 @@
   z-index: 10;
   margin-top: 0;
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
-  color: white;
+  color: gold;
   font-size: 52px;
   padding-left: 5px;
   display: grid;
@@ -271,7 +271,7 @@
 }
 
 .nav {
-    background-color: white;
+    background-color: gold;
     background-image: linear-gradient(to bottom right, black, #87CEEB);
     opacity: 1;
     padding: 5px;
@@ -286,7 +286,7 @@
 .nav2 {
     background-color: #37ADA2;
     background-image: linear-gradient(to bottom right, black, #87CEEB);    
-    color: white;
+    color: gold;
     opacity: 1;
     padding: 5px;
     display: flex;
@@ -427,6 +427,7 @@
 }
 .chapter {
     background-color: black;
+    background-image: linear-gradient(to bottom right, #87CEEB, black);    
     color: white;
     opacity: 0.8;
     opacity: 1;
@@ -444,6 +445,7 @@
 .chapter2 {
 
     background-color: #37ADA2;
+    background-image: linear-gradient(to bottom right, #87CEEB, black);  
     color: white;
     opacity: 0.8;
     opacity: 1;
