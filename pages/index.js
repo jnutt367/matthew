@@ -1626,8 +1626,8 @@ The Great Commission
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
@@ -1638,8 +1638,8 @@ The Great Commission
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                height={75}
-                                width={90}
+                                  height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
@@ -1648,8 +1648,8 @@ The Great Commission
            <Image 
                                 src="/next.webp"
                                 alt="next"
-                                 height={75}
-                                width={90}
+                                  height={25}
+                                width={25}
                                 priority
                               />
            
