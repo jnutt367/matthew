@@ -1620,7 +1620,7 @@ The Great Commission
 
            Timothy was very young & had the duty of leading the church, so, Paul wrote to instruct him on HOW to live as a "man of God"
 </p>                                                      
-                  <div className={styles.nav2}>           
+                  <div className={styles.nav}>           
       <a href="https://second-corinthians.vercel.app/#second_thessalonians">
 <p>Prev</p>                                                      
              <Image 
@@ -1661,9 +1661,9 @@ The Great Commission
                                   </div>
                                   
                               
-        <div className={styles.grid2}>
-          <div className={styles.card2}>
-           <h2  className={styles.chapter2}>I Timothy Chapter I</h2>
+        <div className={styles.grid}>
+          <div className={styles.card}>
+           <h2  className={styles.chapter}>I Timothy Chapter I</h2>
             <p> 
 
                             1 Paul, an apostle of Christ Jesus by the command of God our Savior and of Christ Jesus our hope,
@@ -1688,8 +1688,8 @@ The Great Commission
   </p>
           </div>
 
-          <div className={styles.card2}>
-            <h2 className={styles.chapter2}>I Timothy Chapter II</h2>
+          <div className={styles.card}>
+            <h2 className={styles.chapter}>I Timothy Chapter II</h2>
             <p> 
                           Instructions on Worship
                     2 I urge, then, first of all, that petitions, prayers, intercession and thanksgiving be made for all people— 2 for kings and all those in authority, that we may live peaceful and quiet lives in all godliness and holiness. 3 This is good, and pleases God our Savior, 4 who wants all people to be saved and to come to a knowledge of the truth. 5 For there is one God and one mediator between God and mankind, the man Christ Jesus, 6 who gave himself as a ransom for all people. This has now been witnessed to at the proper time. 7 And for this purpose I was appointed a herald and an apostle—I am telling the truth, I am not lying—and a true and faithful teacher of the Gentiles.
@@ -1703,9 +1703,9 @@ The Great Commission
           </div>
 
           <div
-            className={styles.card2}
+            className={styles.card}
           >
-            <h2 className={styles.chapter2}>I Timothy Chapter III </h2>
+            <h2 className={styles.chapter}>I Timothy Chapter III </h2>
             <p>
                                             Qualifications for Overseers and Deacons
                           3 Here is a trustworthy saying: Whoever aspires to be an overseer desires a noble task. 2 Now the overseer is to be above reproach, faithful to his wife, temperate, self-controlled, respectable, hospitable, able to teach, 3 not given to drunkenness, not violent but gentle, not quarrelsome, not a lover of money. 4 He must manage his own family well and see that his children obey him, and he must do so in a manner worthy of full[a] respect. 5 (If anyone does not know how to manage his own family, how can he take care of God’s church?) 6 He must not be a recent convert, or he may become conceited and fall under the same judgment as the devil. 7 He must also have a good reputation with outsiders, so that he will not fall into disgrace and into the devil’s trap.
@@ -1729,9 +1729,9 @@ The Great Commission
                     </p>
           </div>
 
-          <div className={styles.card2}
+          <div className={styles.card}
           >
-            <h2 className={styles.chapter2}>I Timothy Chapter IV </h2>
+            <h2 className={styles.chapter}>I Timothy Chapter IV </h2>
             <p>
                         4 The Spirit clearly says that in later times some will abandon the faith and follow deceiving spirits and things taught by demons. 2 Such teachings come through hypocritical liars, whose consciences have been seared as with a hot iron. 3 They forbid people to marry and order them to abstain from certain foods, which God created to be received with thanksgiving by those who believe and who know the truth. 4 For everything God created is good, and nothing is to be rejected if it is received with thanksgiving, 5 because it is consecrated by the word of God and prayer.
                     
@@ -1744,9 +1744,9 @@ The Great Commission
                             
             </p>
           </div>
-          <div className={styles.card2}
+          <div className={styles.card}
           >
-            <h2 className={styles.chapter2}>I Timothy Chapter V</h2>
+            <h2 className={styles.chapter}>I Timothy Chapter V</h2>
                               <p> Widows, Elders and Slaves
                   5 Do not rebuke an older man harshly, but exhort him as if he were your father. Treat younger men as brothers, 2 older women as mothers, and younger women as sisters, with absolute purity.
                   
@@ -1770,9 +1770,9 @@ The Great Commission
                     </p>
           </div>
 
-   <div className={styles.card2}
+   <div className={styles.card}
           >
-            <h2 className={styles.chapter2}>I Timothy Chapter IV </h2>
+            <h2 className={styles.chapter}>I Timothy Chapter IV </h2>
                                 <p>
                               6 All who are under the yoke of slavery should consider their masters worthy of full respect, so that God’s name and our teaching may not be slandered. 2 Those who have believing masters should not show them disrespect just because they are fellow believers. Instead, they should serve them even better because their masters are dear to them as fellow believers and are devoted to the welfare[a] of their slaves.
                               
@@ -1792,9 +1792,9 @@ The Great Commission
 
                                 </p>
   </div>
-          <div className={styles.card2}
+          <div className={styles.card}
           >
-            <h2 className={styles.chapter2}>!Explaination of Layout!</h2>
+            <h2 className={styles.chapter}>!Explaination of Layout!</h2>
             <p>
             I have appended 1 Thessalonians to the bottom of 1 corinthians...
             I have appended 2 Thessalonians to the bottom of 2 corinthians...
