@@ -600,10 +600,9 @@
         grid-template-columns: 200px 200px 200px;
         
     }
-    .iframe {
-        padding-left: 200px;
-        padding-right: 200px;
-    }
+   .iframe {
+    width: 50%; 
+   }
 }
    
 
