@@ -587,6 +587,17 @@
         padding-right: 120px;
         padding-left: 120px; 
     }
+.iframe1 {
+  top: 175px;
+  height: 400px ;
+  width: 55%;
+  padding-left: 25px;
+  margin-bottom: -200px;
+  margin-top: -250px;     
+}
+
+
+    
 }
 @media (min-width: 1080px) {
          .image {
