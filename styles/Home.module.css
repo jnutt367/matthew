@@ -588,11 +588,9 @@
         padding-left: 120px; 
     }
 
-.parables {
-    left: 500px;
-    top: -300px;
-    width: 500px;
-    font-family: Dancing Script, sans, sans-serif, "Times New Roman", Times, serif;
+     .parables {
+        color: red;
+        font-family: Dancing Script, sans, sans-serif, "Times New Roman", Times, serif;
 }
     
 }
