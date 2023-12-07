@@ -587,14 +587,7 @@
         padding-right: 120px;
         padding-left: 120px; 
     }
-.iframe1 {
-  top: 175px;
-  height: 400px ;
-  width: 55%;
-  padding-left: 25px;
-  margin-bottom: -200px;
-  margin-top: -250px;     
-}
+
 
 
     
@@ -612,7 +605,7 @@
         
     }
    .iframe {
-    width: 50%; 
+    width: 55%; 
    }
 }
    
