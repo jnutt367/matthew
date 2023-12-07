@@ -588,8 +588,11 @@
         padding-left: 120px; 
     }
 
-
-
+.parables {
+    left: 500px;
+    top: -300px;
+    width: 500px;
+}
     
 }
 @media (min-width: 1080px) {
