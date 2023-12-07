@@ -28,11 +28,11 @@ export default function Home() {
         </h1>
          <div  className={styles.iframe}>
                    
-                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/QiX51E4TBjI?si=t_CT3fkkqpbAgitG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/QiX51E4TBjI?si=t_CT3fkkqpbAgitG&autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                             
 </div> 
 <p className={styles.parables}>
-         She will give birth to a son, and you are to give him the name Jesus, because he will save his people from their sins                              
+         "She will give birth to a son, and you are to give him the name Jesus, because he will save his people from their sins"                              
 </p>
 <div className={styles.nav}>               
 
