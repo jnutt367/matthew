@@ -593,7 +593,7 @@
 
  .iframe1 {
     width: 55%; 
-    top: 450px;
+    top: 400px;
     margin-top: -400px;
    }    
   .parables {
@@ -605,7 +605,7 @@
     padding-left: 50px;
     margin-top: 25px;
     left: 550px;   
-    top: -15px;
+    top: 15px;
     line-height: 2.5em; 
     width: 300px;
     border: 1px solid white;
