@@ -582,7 +582,7 @@
     
 }
 
-@media (min-width: 769x) {
+@media (min-width: 769px) {
      .fund {
         padding-right: 120px;
         padding-left: 120px; 
@@ -596,7 +596,9 @@
     padding-right: 50px;
     padding-left: 50px;
     margin-top: 25px;
-    top: -15px;
+    left: -100px;   
+    top: -315px;
+    width: 400px;
     border: 1px solid white;
     font-family: Dancing Script, Ariel, sans, sans-serif, "Times New Roman", Times, serif;
     font-weight: 200;
