@@ -103,6 +103,16 @@
     font-family: Dancing Script, Ariel, sans, sans-serif, "Times New Roman", Times, serif;
     font-weight: 200;
     font-size: 1em;
+   animation-name: parables;
+    animation-duration: 5s;  
+    animation-iteration-count: 1;
+    animation-timing-function: ease-in-out;  
+}
+@keyframes parables {
+  0%  {top:-3000px}  
+  100% { color: gold; top: -200px}  
+}
+
 }
 .image {
     /*background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpeg);*/
@@ -615,15 +625,7 @@
     font-family: Dancing Script, Ariel, sans, sans-serif, "Times New Roman", Times, serif;
     font-weight: 200;
     font-size: 1.5em;
-    animation-name: parables;
-    animation-duration: 5s;  
-    animation-iteration-count: 1;
-    animation-timing-function: ease-in-out;  
-}
-@keyframes parables {
-  0%  {top:-3000px}  
-  100% { color: gold; top: -200px}  
-}
+  }
     
 }
 @media (min-width: 1024px) {
