@@ -591,7 +591,7 @@
 
  .iframe {
     width: 55%; 
-    top: -15px;
+    top: 415px;
    }    
   .parables {
     display: grid;
@@ -608,7 +608,7 @@
     border: 1px solid white;
     border-radius: 15px;
     background-image: linear-gradient(to bottom right, #000435, #87CEEB);  
-    opacity: 0.7;  
+    opacity:0.7;  
     font-family: Dancing Script, Ariel, sans, sans-serif, "Times New Roman", Times, serif;
     font-weight: 200;
     font-size: 1.5em;
