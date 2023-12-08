@@ -593,7 +593,8 @@
 
  .iframe {
     width: 55%; 
-    top: 415px;
+    top: 450px;
+    margin-top: -400px;
    }    
   .parables {
     display: grid;
