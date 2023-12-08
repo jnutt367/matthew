@@ -600,13 +600,14 @@
     padding-right: 50px;
     padding-left: 50px;
     margin-top: 25px;
-    left: 700px;   
+    left: 500px;   
     top: -315px;
     line-height: 5em; 
     width: 500px;
     border: 1px solid white;
     font-family: Dancing Script, Ariel, sans, sans-serif, "Times New Roman", Times, serif;
     font-weight: 200;
+    font-size: 2em;
 }
     
 }
