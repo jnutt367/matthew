@@ -98,8 +98,9 @@
     padding-left: 50px;
     margin-top: 25px;
     top: -15px;
-    font-family: Ariel, sans, sans-serif, "Times New Roman", Times, serif;
+    font-family: Dancing Script, Ariel, sans, sans-serif, "Times New Roman", Times, serif;
     font-weight: 200;
+    font-size: 1em;
 }
 .image {
     /*background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpeg);*/
@@ -599,10 +600,10 @@
     padding-right: 50px;
     padding-left: 50px;
     margin-top: 25px;
-    left: 300px;   
+    left: 700px;   
     top: -315px;
-    line-height: 3em; 
-    width: 400px;
+    line-height: 5em; 
+    width: 500px;
     border: 1px solid white;
     font-family: Dancing Script, Ariel, sans, sans-serif, "Times New Roman", Times, serif;
     font-weight: 200;
