@@ -618,7 +618,7 @@
 }
     
 }
-@media (min-width: 1080px) {
+@media (min-width: 1024px) {
          .image {
         padding-left: 200px;
         padding-right: 200px;
@@ -631,6 +631,9 @@
         grid-template-columns: 200px 200px 200px;
         
     }
+  .parables {
+ left: 700px;  
+  }
   
 }
    
