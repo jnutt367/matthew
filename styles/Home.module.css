@@ -604,10 +604,10 @@
     padding-right: 50px;
     padding-left: 50px;
     margin-top: 25px;
-    left: 650px;   
+    left: 500px;   
     top: -15px;
     line-height: 6em; 
-    width: 500px;
+    width: 300px;
     border: 1px solid white;
     border-radius: 15px;
     background-image: linear-gradient(to bottom right, #000435, #87CEEB);  
@@ -625,7 +625,12 @@
         margin-left: 100px; 
         margin-right: 100px;      
     }
-   
+.parables {
+    left: 700px;  
+     width: 400px;
+}
+
+    
         .grid {
         grid-template-columns: 200px 200px 200px;
         
