@@ -588,9 +588,18 @@
         padding-left: 120px; 
     }
 
-     .parables {
-        color: red;
-        font-family: Dancing Script, sans, sans-serif, "Times New Roman", Times, serif;
+  .parables {
+    display: grid;
+    text-align: center;
+    color: white;
+    position: relative;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-top: 25px;
+    top: -15px;
+    border: 1px solid white;
+    font-family: Dancing Script, Ariel, sans, sans-serif, "Times New Roman", Times, serif;
+    font-weight: 200;
 }
     
 }
