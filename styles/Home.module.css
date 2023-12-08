@@ -606,7 +606,7 @@
     margin-top: 25px;
     left: 500px;   
     top: -15px;
-    line-height: 6em; 
+    line-height: 3em; 
     width: 300px;
     border: 1px solid white;
     border-radius: 15px;
@@ -627,7 +627,7 @@
     }
 .parables {
     left: 700px;  
-     width: 400px;
+    width: 500px;
 }
 
     
