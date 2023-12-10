@@ -37,7 +37,7 @@ export default function Home() {
                             
 </div> 
 <p className={styles.parables}>
-         "She will give birth to a son, and you are to give him the name Jesus, because he will save his people from their sins"                              
+         "... and you are to give him the name Jesus, because he will save his people from their sins"                              
 </p>
 <div className={styles.nav}>               
 
