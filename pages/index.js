@@ -1616,7 +1616,7 @@ The Great Commission
   </div>
     <p className={styles.parables}>
 
-           Timothy was very young & had the duty of leading the church, so, Paul wrote to instruct him on HOW to live as a "man of God"
+           Timothy was young & had the duty of leading the church, Paul wrote to instruct on how to live as a "man of God"
 </p>                                                      
                   <div className={styles.nav}>           
       <a href="https://second-corinthians.vercel.app/#second_thessalonians">
