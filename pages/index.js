@@ -1616,7 +1616,7 @@ The Great Commission
   </div>
     <p className={styles.parables}>
 
-Paul wrote to a very young Timothy, to instruct on how to live as a "man of God"
+Paul wrote to a very young Timothy, in order to instruct on how to live as a "man of God"
 </p>                                                      
                   <div className={styles.nav}>           
       <a href="https://second-corinthians.vercel.app/#second_thessalonians">
