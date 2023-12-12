@@ -1654,8 +1654,8 @@ Paul wrote to a very young Timothy, in order to instruct on how to live as a "ma
         </a> 
          
                </div>
-               <div className={styles.iframe}> 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/7RoqnGcEjcs?autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                        
+               <div className={styles.iframe1}> 
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/pN8h3t4wTtA?si=ApzqzJLID0eZDSOy&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                    
                                   </div>
                                   
                               
