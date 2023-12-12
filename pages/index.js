@@ -1611,8 +1611,7 @@ The Great Commission
        I TIMOTHY
         </h1>
           <div className={styles.iframe1}>
-  <iframe width="100%" height="315" src="https://www.youtube.com/embed/d2lLcJU1kXk?si=m-QDgefYqVP_bD1i&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  
+ <iframe width="100%" height="315" src="https://www.youtube.com/embed/pN8h3t4wTtA?si=ApzqzJLID0eZDSOy&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   </div>
     <p className={styles.parables}>
 
@@ -1654,8 +1653,8 @@ Paul wrote to a very young Timothy, in order to instruct on how to live as a "ma
         </a> 
          
                </div>
-               <div className={styles.iframe1}> 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/pN8h3t4wTtA?si=ApzqzJLID0eZDSOy&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                    
+               <div className={styles.iframe}> 
+ <iframe width="100%" height="315" src="https://www.youtube.com/embed/3Dv4-n6OYGI?autoplay=1&mute=1" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                                   </div>
                                   
                               
