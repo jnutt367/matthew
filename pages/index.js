@@ -13,6 +13,10 @@ export default function Home() {
           rel="stylesheet"
         />   
             <link rel="icon" href="/favicon.ico" />
+<link
+          href="https://fonts.googleapis.com/css2?family=Roboto:wght@400..700&display=swap"
+          rel="stylesheet"
+        />                               
       </Head>
     
 
