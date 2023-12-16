@@ -35,7 +35,7 @@
 .holy {
   backgroud-color: transparent;
   color: white;
-  font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+  font-family: Rubik Doodle Shadow, Ariel, sans, serif, sans-serif, cursive, fantasy;
   position: relative;
   z-index:10;
   top: 12px;
@@ -51,7 +51,7 @@
   top: -37px;
   z-index: 10;
   margin-top: 0;
-  font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
+  font-family:  Rubik Doodle Shadow, sans, , serif, sans-serif, cursive, fantasy;
   color: white;
   font-size: 52px;
   padding-left: 5px;
@@ -255,7 +255,7 @@
   z-index: 2;
   top: -45px;
   margin-top: -120px;
-  font-family: Dancing Script, Ariel, sans, serif, sans-serif, cursive, fantasy;
+  font-family: Rubik Doodle Shadow, Dancing Script, Ariel, sans, serif, sans-serif, cursive, fantasy;
   font-size: 64px;
 }
 
@@ -317,6 +317,7 @@
     position: sticky;
     border: 1px solid gold;
     box-shadow: 5px 10px 20px black;
+    font-family: Dancing Script; 
 }
 
 .nav2 {
@@ -329,6 +330,7 @@
     flex-direction: row;
     justify-content: space-around;
     position: sticky;
+    font-family: Dancing Script; 
 }
 
 .nav2 a:hover {
@@ -473,7 +475,7 @@
     margin: 0;
     padding-top: 25px;
     padding-bottom: 5px;
-    font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+    font-family: Rubik Doodle Shadow, Ariel, sans, serif, sans-serif, cursive, fantasy;
 }
 
 .chapter2 {
@@ -492,7 +494,7 @@
     margin: 0;
     padding-top: 25px;
     padding-bottom: 5px;
-    font-family: Ariel, sans, serif, sans-serif, cursive, fantasy;
+    font-family: Rubik Doodle Shadow, Ariel, sans, serif, sans-serif, cursive, fantasy;
 }
 
 .card:hover,
