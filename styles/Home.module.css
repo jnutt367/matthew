@@ -26,10 +26,10 @@
 }
 
 @keyframes iframe1 {
-  0%  {opacity:1; left: -500px; top: -500px;}  
-  40% { opacity: 0.2; left: 500px; top: 500px;}
-  90% {opacity: 1; left: -250px;top: -750px;}
-  100% {opacity: 1; left: 0px; top: 0px;}  
+  0%  {opacity:0; left: -1000px;}  
+  40% { opacity: 0.3; left: -500px;}
+  90% {opacity: 0.65; left: -250px}
+  100% {opacity: 1; left: 0px;}  
 }
 
 
