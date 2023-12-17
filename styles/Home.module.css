@@ -124,11 +124,14 @@
     font-family: Dancing Script, Ariel, sans, sans-serif, "Times New Roman", Times, serif;
     font-weight: 200;
     font-size: 1.5em;
-   animation-name: parables;
+    animation-name: parables;
     animation-duration: 2s;  
     animation-iteration-count: 1;
     animation-timing-function: ease-in-out;  
+    text-shadow:2px 2px 4px #000000;
 }
+
+
 @keyframes parables {
   0%  {top:-3000px}  
   100% { color: white; top: 0px}  
