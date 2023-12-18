@@ -43,7 +43,7 @@ export default function Home() {
                             
 </div> 
 <p className={styles.parables}>
-         "... and you are to give him the name Jesus, because he will save his people from their sins"                              
+         " She will give birth to a son, and you are to give him the name Jesus,[a] because he will save his people from their sins."                              
 </p>
 <div className={styles.nav}>               
 
@@ -1621,7 +1621,7 @@ The Great Commission
   </div>
     <p className={styles.parables}>
 
-Paul wrote to a very young Timothy, in order to instruct on how to live as a "man of God"
+"Here is a trustworthy saying that deserves full acceptance: Christ Jesus came into the world to save sinners"
 </p>                                                      
                   <div className={styles.nav}>           
       <a href="https://second-corinthians.vercel.app/#second_thessalonians">
