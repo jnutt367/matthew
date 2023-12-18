@@ -341,12 +341,14 @@
     scale: 1.1;
     opacity: 0.8;
     border-radius: 50%;
+   color: gold;
 }
 .nav a {
     opacity:0.8;
 }
 .nav a:hover {
     opacity: 1;
+    color: gold;
 }
 
 
