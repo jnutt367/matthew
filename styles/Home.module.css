@@ -116,7 +116,8 @@
 .parables {
     display: grid;
     text-align: center;
-    color: gold;
+    color: black;
+    text-shadow: 2px 2px 4px whitesmoke;    
     position: relative;
     padding-right: 50px;
     padding-left: 50px;
@@ -639,7 +640,8 @@
   .parables {
     display: grid;
     text-align: center;
-    color: gold;
+    color: black;
+    text-shadow: 2px 2px 4px whitesmoke;    
     position: relative;
     padding-right: 50px;
     padding-left: 50px;
