@@ -344,6 +344,7 @@
 }
 .nav a {
     opacity:0.8;
+    color: white;
 }
 .nav a:hover {
     opacity: 1;
