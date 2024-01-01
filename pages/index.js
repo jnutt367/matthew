@@ -56,11 +56,13 @@ export default function Home() {
                                 width={25}
                                 priority
                               />
+
+<p>Page</p>                                  
        </a>  
   
   <a href="https://cash.app/$JNutt367" target="_blank">
 
-<p>Give</p>
+<p>One Tine</p>
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="youtube-icon"
@@ -68,6 +70,7 @@ export default function Home() {
                                 width={25}
                                 priority
                               /> 
+<p>Gift</p>                                  
        </a>
            
            
@@ -80,6 +83,7 @@ export default function Home() {
                                 width={25}
                                 priority
                               />
+<p>Page</p>
        </a>           
         </div>
    <div className={styles.iframe}>
@@ -1629,32 +1633,36 @@ The Great Commission
              <Image 
                                 src="/previous.webp"
                                 alt="prev"
-                                 height={25}
-                                width={25}
+                                 height={50}
+                                width={50}
                                 priority
                               />
+<p>Page</p>                                  
        </a>
 
         
       <a href="https://cash.app/$JNutt367">
-<p>Give</p>                                  
+<p>One Time</p>                                  
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                  height={25}
-                                width={25}
+                                  height={50}
+                                width={50}
                                 priority
                               /> 
+<p>Gift</p>                                  
        </a>
          <a href="https://mark-alpha.vercel.app/#second_timothy">
 <p>Next</p>                                      
            <Image 
                                 src="/next.webp"
                                 alt="next"
-                                  height={25}
-                                width={25}
+                                  height={50}
+                                width={50}
                                 priority
                               />
+
+<p>Page</p>
            
         </a> 
          
